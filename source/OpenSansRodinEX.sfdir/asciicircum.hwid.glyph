@@ -1,0 +1,25 @@
+StartChar: asciicircum.hwid
+Encoding: 67633 -1 18074
+Width: 1024
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+61 643 m 1,0,-1
+ 365 1577 l 1,1,-1
+ 655 1577 l 1,2,-1
+ 958 643 l 1,3,-1
+ 659 643 l 1,4,-1
+ 590 930 l 1,5,-1
+ 516 1249 l 1,6,-1
+ 508 1249 l 1,7,-1
+ 434 930 l 1,8,-1
+ 360 643 l 1,9,-1
+ 61 643 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" asciicircum
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uniFF3E
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" uniFF3E asciicircum
+EndChar

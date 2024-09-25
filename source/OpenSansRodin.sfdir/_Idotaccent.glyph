@@ -1,0 +1,27 @@
+StartChar: Idotaccent
+Encoding: 304 304 242
+Width: 730
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 10
+ 1
+ 1
+ 1
+ 193
+ 86
+SVTCA[y-axis]
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 334 729 N 1 0 0 1 84 353.85 2
+Validated: 1
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" Idotaccent.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Idotaccent.salt
+EndChar

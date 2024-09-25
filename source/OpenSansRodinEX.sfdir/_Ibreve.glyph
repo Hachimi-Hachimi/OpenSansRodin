@@ -1,0 +1,27 @@
+StartChar: Ibreve
+Encoding: 300 300 238
+Width: 730
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 8
+ 1
+ 1
+ 1
+ 146
+ 86
+SVTCA[y-axis]
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 333 728 N 1 0 0 1 -139.65 353.85 2
+Validated: 1
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" Ibreve.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Ibreve.salt
+EndChar

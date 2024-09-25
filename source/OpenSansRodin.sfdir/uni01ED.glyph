@@ -1,0 +1,28 @@
+StartChar: uni01ED
+Encoding: 493 493 882
+Width: 1351
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 35
+ 14
+ 7
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 674.1 -516.6 basechar 0
+AnchorPoint: "Anchor-0" 676.2 1538.25 basechar 0
+LayerCount: 2
+Fore
+Refer: 82 111 N 1 0 0 1 0 0 3
+Refer: 332 713 N 1 0 0 1 225.75 0 2
+Refer: 336 731 N 1 0 0 1 347.55 0 2
+Validated: 5
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 5 subtable" o uni0328 macron
+EndChar

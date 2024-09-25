@@ -1,0 +1,27 @@
+StartChar: uniFF3B
+Encoding: 65339 65339 15984
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1462 1751 m 1,0,-1
+ 1997 1751 l 1,1,-1
+ 1997 1559 l 1,2,-1
+ 1733 1559 l 1,3,-1
+ 1733 -2 l 1,4,-1
+ 1997 -2 l 1,5,-1
+ 1997 -195 l 1,6,-1
+ 1462 -195 l 1,7,-1
+ 1462 1751 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uniFE47
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" bracketleft
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" bracketleft.hwid
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" bracketleft.hwid bracketleft
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 7" dx=-8 dy=0 dh=0 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 0" dx=-985 dy=0 dh=-1024 dv=0
+Position2: "NotoSansJP-Black-'halt' Alternative Half Widths lookup 4 per glyph data 0" dx=-1024 dy=0 dh=-1024 dv=0
+EndChar

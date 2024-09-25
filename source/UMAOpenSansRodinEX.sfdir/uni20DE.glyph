@@ -1,0 +1,22 @@
+StartChar: uni20DE
+Encoding: 8414 8414 1177
+Width: 0
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-102 1700 m 1,0,-1
+ -102 -143 l 1,1,-1
+ -1946 -143 l 1,2,-1
+ -1946 1700 l 1,3,-1
+ -102 1700 l 1,0,-1
+-1864 -61 m 1,4,-1
+ -184 -61 l 1,5,-1
+ -184 1618 l 1,6,-1
+ -1864 1618 l 1,7,-1
+ -1864 -61 l 1,4,-1
+EndSplineSet
+Validated: 1
+Position2: "NotoSansJP-Black-'vert' Vertical Alternates lookup 2 per glyph data 0" dx=1024 dy=2048 dh=0 dv=-2048
+EndChar

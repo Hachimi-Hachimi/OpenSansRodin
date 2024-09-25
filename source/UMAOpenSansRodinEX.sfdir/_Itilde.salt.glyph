@@ -1,0 +1,26 @@
+StartChar: Itilde.salt
+Encoding: 65579 -1 926
+Width: 891
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 29
+ 6
+ 2
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 446.25 0 basechar 0
+AnchorPoint: "Anchor-0" 446.25 1998.15 basechar 0
+LayerCount: 2
+Fore
+Refer: 920 -1 N 1 0 0 1 0 0 3
+Refer: 337 732 N 1 0 0 1 -79.8 353.85 2
+Validated: 1
+EndChar

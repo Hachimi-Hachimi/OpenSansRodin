@@ -1,0 +1,31 @@
+StartChar: backslash
+Encoding: 92 92 63
+Width: 919
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_6
+ 3
+ 2
+ 114
+ 1
+ 8
+ 114
+SVTCA[y-axis]
+CALL
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+337.049804688 1546.65039062 m 1,0,-1
+ 909.299804688 -10.5 l 1,1,-1
+ 581.700195312 -10.5 l 1,2,-1
+ 9.4501953125 1546.65039062 l 1,3,-1
+ 337.049804688 1546.65039062 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,14 @@
+StartChar: Eogonek.loclNAV
+Encoding: 65570 -1 917
+Width: 1192
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 643.65 0 basechar 0
+AnchorPoint: "Anchor-0" 634.2 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 336 731 N 1 0 0 1 332.85 0 2
+Validated: 5
+EndChar

@@ -1,0 +1,33 @@
+StartChar: asciitilde.hwid
+Encoding: 67664 -1 18106
+Width: 1024
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+672 561 m 0,0,1
+ 611 561 611 561 563.5 587.5 c 128,-1,2
+ 516 614 516 614 478 649 c 128,-1,3
+ 440 684 440 684 404.5 710.5 c 128,-1,4
+ 369 737 369 737 328 737 c 0,5,6
+ 289 737 289 737 249 700.5 c 128,-1,7
+ 209 664 209 664 180 602 c 1,8,-1
+ -8 745 l 1,9,10
+ 82 880 82 880 173 935.5 c 128,-1,11
+ 264 991 264 991 352 991 c 0,12,13
+ 413 991 413 991 459.5 964.5 c 128,-1,14
+ 506 938 506 938 544 903 c 128,-1,15
+ 582 868 582 868 617.5 841.5 c 128,-1,16
+ 653 815 653 815 696 815 c 0,17,18
+ 737 815 737 815 773 852 c 128,-1,19
+ 809 889 809 889 844 950 c 1,20,-1
+ 1032 807 l 1,21,22
+ 940 672 940 672 849 616.5 c 128,-1,23
+ 758 561 758 561 672 561 c 0,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" asciitilde
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uni301C
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" uni301C asciitilde
+EndChar

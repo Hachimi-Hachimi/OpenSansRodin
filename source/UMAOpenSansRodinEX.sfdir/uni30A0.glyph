@@ -1,0 +1,22 @@
+StartChar: uni30A0
+Encoding: 12448 12448 1955
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+563 993 m 1,0,-1
+ 1485 993 l 1,1,-1
+ 1485 901 l 1,2,-1
+ 563 901 l 1,3,-1
+ 563 993 l 1,0,-1
+563 655 m 1,4,-1
+ 1485 655 l 1,5,-1
+ 1485 563 l 1,6,-1
+ 563 563 l 1,7,-1
+ 563 655 l 1,4,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni30A0.vert
+EndChar

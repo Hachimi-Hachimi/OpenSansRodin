@@ -1,0 +1,29 @@
+StartChar: Uring
+Encoding: 366 366 303
+Width: 1626
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_8
+ 2
+ 1
+ 20
+ 19
+ 1
+ 1
+ 147
+ 86
+SVTCA[y-axis]
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 809.55 0 basechar 0
+AnchorPoint: "Anchor-0" 813.75 2169.3 basechar 0
+LayerCount: 2
+Fore
+Refer: 56 85 N 1 0 0 1 0 0 3
+Refer: 335 730 N 1 0 0 1 459.9 353.85 2
+Validated: 1
+EndChar

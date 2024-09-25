@@ -1,0 +1,59 @@
+StartChar: uni30BE
+Encoding: 12478 12478 1985
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+440 88 m 1,0,1
+ 649 176 649 176 795.5 283.5 c 128,-1,2
+ 942 391 942 391 1040.5 506 c 128,-1,3
+ 1139 621 1139 621 1198 733.5 c 128,-1,4
+ 1257 846 1257 846 1290 947.5 c 128,-1,5
+ 1323 1049 1323 1049 1341 1128 c 0,6,7
+ 1361 1216 1361 1216 1370.5 1293 c 128,-1,8
+ 1380 1370 1380 1370 1378 1413 c 1,9,-1
+ 1772 1337 l 1,10,11
+ 1752 1271 1752 1271 1732 1193.5 c 128,-1,12
+ 1712 1116 1712 1116 1702 1081 c 0,13,14
+ 1665 936 1665 936 1603.5 774 c 128,-1,15
+ 1542 612 1542 612 1435.5 446.5 c 128,-1,16
+ 1329 281 1329 281 1160 124 c 128,-1,17
+ 991 -33 991 -33 737 -168 c 1,18,-1
+ 440 88 l 1,0,1
+446 1509 m 1,19,20
+ 487 1452 487 1452 536.5 1371 c 128,-1,21
+ 586 1290 586 1290 637 1202 c 128,-1,22
+ 688 1114 688 1114 732 1033 c 128,-1,23
+ 776 952 776 952 805 897 c 1,24,-1
+ 475 711 l 1,25,26
+ 434 801 434 801 388 891 c 128,-1,27
+ 342 981 342 981 296 1065 c 128,-1,28
+ 250 1149 250 1149 206 1220.5 c 128,-1,29
+ 162 1292 162 1292 125 1343 c 1,30,-1
+ 446 1509 l 1,19,20
+1565 1722 m 1,31,32
+ 1592 1683 1592 1683 1621.5 1633 c 128,-1,33
+ 1651 1583 1651 1583 1678.5 1533 c 128,-1,34
+ 1706 1483 1706 1483 1722 1446 c 1,35,-1
+ 1520 1362 l 1,36,37
+ 1502 1407 1502 1407 1475 1456 c 128,-1,38
+ 1448 1505 1448 1505 1420.5 1553.5 c 128,-1,39
+ 1393 1602 1393 1602 1364 1640 c 1,40,-1
+ 1565 1722 l 1,31,32
+1851 1792 m 1,41,42
+ 1878 1753 1878 1753 1908.5 1703 c 128,-1,43
+ 1939 1653 1939 1653 1967 1603.5 c 128,-1,44
+ 1995 1554 1995 1554 2013 1520 c 1,45,-1
+ 1810 1434 l 1,46,47
+ 1777 1497 1777 1497 1734.5 1575 c 128,-1,48
+ 1692 1653 1692 1653 1649 1710 c 1,49,-1
+ 1851 1792 l 1,41,42
+EndSplineSet
+Validated: 37
+Kerns2: 15940 -102 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 15938 -143 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2001 -61 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1800 -123 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1799 -123 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0"
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni30BE.vert
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 15" dx=102 dy=0 dh=66 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-78 dy=0 dh=-178 dv=0
+EndChar

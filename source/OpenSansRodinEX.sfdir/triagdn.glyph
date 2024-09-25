@@ -1,0 +1,15 @@
+StartChar: triagdn
+Encoding: 9660 9660 1660
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1987 1532 m 1,0,-1
+ 1024 -135 l 1,1,-1
+ 61 1532 l 1,2,-1
+ 1987 1532 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

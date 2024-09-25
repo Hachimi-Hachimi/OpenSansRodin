@@ -1,0 +1,27 @@
+StartChar: minus
+Encoding: 8722 8722 554
+Width: 1223
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 0
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp2]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+84 630 m 1,0,-1
+ 84 886.200195312 l 1,1,-1
+ 1137.15039062 886.200195312 l 1,2,-1
+ 1137.15039062 630 l 1,3,-1
+ 84 630 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

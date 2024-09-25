@@ -1,0 +1,31 @@
+StartChar: uniFF02
+Encoding: 65282 65282 15928
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+639 999 m 1,0,-1
+ 565 1479 l 1,1,-1
+ 553 1802 l 1,2,-1
+ 922 1802 l 1,3,-1
+ 909 1479 l 1,4,-1
+ 836 999 l 1,5,-1
+ 639 999 l 1,0,-1
+1212 999 m 1,6,-1
+ 1139 1479 l 1,7,-1
+ 1126 1802 l 1,8,-1
+ 1495 1802 l 1,9,-1
+ 1483 1479 l 1,10,-1
+ 1409 999 l 1,11,-1
+ 1212 999 l 1,6,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" quotedbl
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" quotedbl.hwid
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" quotedbl.hwid quotedbl
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 17" dx=170 dy=0 dh=340 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 0" dx=-512 dy=0 dh=-1024 dv=0
+Position2: "NotoSansJP-Black-'halt' Alternative Half Widths lookup 4 per glyph data 1" dx=-512 dy=0 dh=-1024 dv=0
+EndChar

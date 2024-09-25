@@ -1,0 +1,16 @@
+StartChar: uni0145
+Encoding: 325 325 262
+Width: 1771
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 886.2 -475.65 basechar 0
+AnchorPoint: "Anchor-0" 886.2 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 78 N 1 0 0 1 0 0 3
+Refer: 1137 -1 N 1 0 0 1 345.45 0 2
+Validated: 1
+Substitution2: "'locl' Localized Forms in Latin lookup 11 subtable" uni0145.loclMAH
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0145.loclMAH
+EndChar

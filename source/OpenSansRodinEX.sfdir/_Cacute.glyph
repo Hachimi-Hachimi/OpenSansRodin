@@ -1,0 +1,26 @@
+StartChar: Cacute
+Encoding: 262 262 200
+Width: 1382
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 38
+ 25
+ 3
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 805.35 0 basechar 0
+AnchorPoint: "Anchor-0" 798 2001.3 basechar 0
+LayerCount: 2
+Fore
+Refer: 38 67 N 1 0 0 1 0 0 3
+Refer: 118 180 N 1 0 0 1 508.2 353.85 2
+Validated: 1
+EndChar

@@ -1,0 +1,26 @@
+StartChar: uni0123
+Encoding: 291 291 229
+Width: 1258
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_4
+ 5
+ 31
+ 7
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 566 -1 N 1 0 0 1 79.8 -5.25 2
+Refer: 74 103 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 36 subtable" uni0123.alt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0123.alt
+EndChar

@@ -1,0 +1,28 @@
+StartChar: Iotadieresis
+Encoding: 938 938 374
+Width: 730
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_5
+ 13
+ 25
+ 1
+ 2
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 106 168 N 1 0 0 1 -295.05 353.85 2
+Validated: 1
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" Iotadieresis.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Iotadieresis.salt
+EndChar

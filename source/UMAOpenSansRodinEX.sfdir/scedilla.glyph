@@ -1,0 +1,17 @@
+StartChar: scedilla
+Encoding: 351 351 288
+Width: 1090
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 537.6 -516.6 basechar 0
+AnchorPoint: "Anchor-0" 537.6 1182.3 basechar 0
+LayerCount: 2
+Fore
+Refer: 86 115 N 1 0 0 1 0 0 3
+Refer: 122 184 N 1 0 0 1 283.5 0 2
+Validated: 5
+Substitution2: "'locl' Localized Forms in Latin lookup 10 subtable" uni0219
+Substitution2: "'locl' Localized Forms in Latin lookup 9 subtable" uni0219
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0219
+EndChar

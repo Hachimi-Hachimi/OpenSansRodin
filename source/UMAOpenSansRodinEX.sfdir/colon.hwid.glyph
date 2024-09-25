@@ -1,0 +1,33 @@
+StartChar: colon.hwid
+Encoding: 67597 -1 18038
+Width: 1024
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+514 729 m 0,0,1
+ 418 729 418 729 354.5 792.5 c 128,-1,2
+ 291 856 291 856 291 954 c 0,3,4
+ 291 1050 291 1050 354.5 1115 c 128,-1,5
+ 418 1180 418 1180 514 1180 c 1,6,-1
+ 514 1180 l 1,7,8
+ 608 1180 608 1180 670.5 1115.5 c 128,-1,9
+ 733 1051 733 1051 733 954 c 0,10,11
+ 733 856 733 856 670.5 792.5 c 128,-1,12
+ 608 729 608 729 514 729 c 0,0,1
+514 -25 m 0,13,14
+ 418 -25 418 -25 354.5 38.5 c 128,-1,15
+ 291 102 291 102 291 201 c 0,16,17
+ 291 297 291 297 354.5 361.5 c 128,-1,18
+ 418 426 418 426 514 426 c 0,19,20
+ 608 426 608 426 670.5 361.5 c 128,-1,21
+ 733 297 733 297 733 201 c 0,22,23
+ 733 103 733 103 670.5 39 c 128,-1,24
+ 608 -25 608 -25 514 -25 c 0,13,14
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" colon
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uniFF1A
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" uniFF1A colon
+EndChar

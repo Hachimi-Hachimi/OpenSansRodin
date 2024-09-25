@@ -1,0 +1,15 @@
+StartChar: gravecomb
+Encoding: 768 768 1025
+Width: 0
+VWidth: 2150
+GlyphClass: 4
+Flags: W
+AnchorPoint: "Anchor-8" -794.85 1645.35 basemark 0
+AnchorPoint: "Anchor-8" -794.85 1182.3 mark 0
+AnchorPoint: "Anchor-5" -794.85 1182.3 mark 0
+AnchorPoint: "Anchor-0" -794.85 1182.3 mark 0
+LayerCount: 2
+Fore
+Refer: 67 96 N 1 0 0 1 -1256.85 0 2
+Validated: 1
+EndChar

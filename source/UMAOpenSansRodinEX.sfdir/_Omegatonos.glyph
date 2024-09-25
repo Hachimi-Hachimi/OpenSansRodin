@@ -1,0 +1,14 @@
+StartChar: Omegatonos
+Encoding: 911 911 348
+Width: 1878
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 1027.95 0 basechar 0
+AnchorPoint: "Anchor-0" 1027.95 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 373 937 N 1 0 0 1 177.45 0 2
+Refer: 339 900 N 1 0 0 1 -472.5 -95.55 2
+Validated: 1
+EndChar

@@ -1,0 +1,20 @@
+StartChar: logicalor
+Encoding: 8744 8744 1253
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1028 -41 m 1,0,-1
+ 1020 -41 l 1,1,-1
+ 223 1466 l 1,2,-1
+ 440 1581 l 1,3,-1
+ 1020 479 l 1,4,-1
+ 1028 479 l 1,5,-1
+ 1608 1581 l 1,6,-1
+ 1825 1466 l 1,7,-1
+ 1028 -41 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

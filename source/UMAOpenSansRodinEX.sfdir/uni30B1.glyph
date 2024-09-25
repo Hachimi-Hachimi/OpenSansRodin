@@ -1,0 +1,67 @@
+StartChar: uni30B1
+Encoding: 12465 12465 1972
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+961 1616 m 1,0,1
+ 941 1575 941 1575 920 1522.5 c 128,-1,2
+ 899 1470 899 1470 885 1436 c 0,3,4
+ 867 1383 867 1383 838 1314 c 128,-1,5
+ 809 1245 809 1245 779.5 1178.5 c 128,-1,6
+ 750 1112 750 1112 723 1061 c 0,7,8
+ 682 981 682 981 625.5 893 c 128,-1,9
+ 569 805 569 805 503.5 724 c 128,-1,10
+ 438 643 438 643 369 580 c 1,11,-1
+ 57 768 l 1,12,13
+ 112 809 112 809 161.5 860 c 128,-1,14
+ 211 911 211 911 256 966.5 c 128,-1,15
+ 301 1022 301 1022 339 1076 c 128,-1,16
+ 377 1130 377 1130 408 1180 c 0,17,18
+ 449 1248 449 1248 478.5 1323.5 c 128,-1,19
+ 508 1399 508 1399 528 1456 c 256,20,21
+ 548 1513 548 1513 561.5 1576.5 c 128,-1,22
+ 575 1640 575 1640 578 1692 c 1,23,-1
+ 961 1616 l 1,0,1
+600 1319 m 1,24,25
+ 639 1319 639 1319 707.5 1319 c 128,-1,26
+ 776 1319 776 1319 864 1319 c 128,-1,27
+ 952 1319 952 1319 1048.5 1319 c 128,-1,28
+ 1145 1319 1145 1319 1241 1319 c 128,-1,29
+ 1337 1319 1337 1319 1423 1319 c 128,-1,30
+ 1509 1319 1509 1319 1574.5 1319 c 128,-1,31
+ 1640 1319 1640 1319 1675 1319 c 0,32,33
+ 1716 1319 1716 1319 1781.5 1323 c 128,-1,34
+ 1847 1327 1847 1327 1901 1335 c 1,35,-1
+ 1901 997 l 1,36,37
+ 1838 1003 1838 1003 1774 1004.5 c 128,-1,38
+ 1710 1006 1710 1006 1675 1006 c 0,39,40
+ 1634 1006 1634 1006 1552 1006 c 128,-1,41
+ 1470 1006 1470 1006 1363.5 1006 c 128,-1,42
+ 1257 1006 1257 1006 1141.5 1006 c 128,-1,43
+ 1026 1006 1026 1006 916.5 1006 c 128,-1,44
+ 807 1006 807 1006 718 1006 c 128,-1,45
+ 629 1006 629 1006 578 1006 c 1,46,-1
+ 600 1319 l 1,24,25
+1427 1137 m 1,47,48
+ 1423 916 1423 916 1382 726.5 c 128,-1,49
+ 1341 537 1341 537 1263.5 379 c 128,-1,50
+ 1186 221 1186 221 1069 93 c 128,-1,51
+ 952 -35 952 -35 799 -131 c 1,52,-1
+ 465 92 l 1,53,54
+ 526 119 526 119 581.5 150.5 c 128,-1,55
+ 637 182 637 182 674 215 c 0,56,57
+ 766 287 766 287 839.5 376 c 128,-1,58
+ 913 465 913 465 966.5 577.5 c 128,-1,59
+ 1020 690 1020 690 1049.5 828.5 c 128,-1,60
+ 1079 967 1079 967 1081 1137 c 1,61,-1
+ 1427 1137 l 1,47,48
+EndSplineSet
+Validated: 5
+Kerns2: 15940 -102 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 15938 -205 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2038 -61 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2031 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2020 -61 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2019 -143 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2018 -61 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2013 -61 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2012 -61 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2011 -61 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2004 -82 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2003 -82 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2002 -82 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 2001 -123 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1994 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1993 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1959 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1800 -184 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1799 -164 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0"
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni30B1.vert
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 11" dx=-4 dy=0 dh=31 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-33 dy=0 dh=-131 dv=0
+EndChar

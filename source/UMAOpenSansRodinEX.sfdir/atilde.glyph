@@ -1,0 +1,26 @@
+StartChar: atilde
+Encoding: 227 227 165
+Width: 1319
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 58
+ 0
+ 7
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 660.45 0 basechar 0
+AnchorPoint: "Anchor-0" 660.45 1644.3 basechar 0
+LayerCount: 2
+Fore
+Refer: 68 97 N 1 0 0 1 0 0 3
+Refer: 337 732 N 1 0 0 1 133.35 0 2
+Validated: 1
+EndChar

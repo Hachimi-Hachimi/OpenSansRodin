@@ -1,0 +1,18 @@
+StartChar: uniFFE2
+Encoding: 65506 65506 16086
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1765 1126 m 1,0,-1
+ 1765 410 l 1,1,-1
+ 1473 410 l 1,2,-1
+ 1473 848 l 1,3,-1
+ 266 848 l 1,4,-1
+ 266 1126 l 1,5,-1
+ 1765 1126 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

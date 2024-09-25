@@ -1,0 +1,14 @@
+StartChar: Upsilontonos
+Encoding: 910 910 347
+Width: 1806
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 1113 0 basechar 0
+AnchorPoint: "Anchor-0" 1113 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 60 89 N 1 0 0 1 421.05 0 2
+Refer: 339 900 N 1 0 0 1 -472.5 -95.55 2
+Validated: 1
+EndChar

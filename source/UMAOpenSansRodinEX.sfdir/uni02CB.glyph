@@ -1,0 +1,19 @@
+StartChar: uni02CB
+Encoding: 715 715 1161
+Width: 1228
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1063 1073 m 1,0,-1
+ 438 1755 l 1,1,-1
+ 188 1520 l 1,2,-1
+ 872 881 l 1,3,-1
+ 1063 1073 l 1,0,-1
+EndSplineSet
+Validated: 9
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" gravecomb
+Substitution2: "NotoSansJP-Black-'ruby' Ruby Notational Forms lookup 9 subtable" gravecomb
+Substitution2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 0 subtable" gravecomb
+EndChar

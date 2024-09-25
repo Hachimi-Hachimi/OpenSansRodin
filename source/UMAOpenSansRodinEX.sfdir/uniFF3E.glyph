@@ -1,0 +1,25 @@
+StartChar: uniFF3E
+Encoding: 65342 65342 15987
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1421 1671 m 1,0,-1
+ 1163 1671 l 1,1,-1
+ 1053 1825 l 1,2,-1
+ 1047 1825 l 1,3,-1
+ 936 1671 l 1,4,-1
+ 680 1671 l 1,5,-1
+ 915 1972 l 1,6,-1
+ 1182 1972 l 1,7,-1
+ 1421 1671 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" asciicircum
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" asciicircum.hwid
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" asciicircum.hwid asciicircum
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 8" dx=4 dy=0 dh=0 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 0" dx=-530 dy=0 dh=-1024 dv=0
+EndChar

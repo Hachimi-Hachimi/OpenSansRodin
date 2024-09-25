@@ -1,0 +1,27 @@
+StartChar: uni3155
+Encoding: 12629 12629 2130
+AltUni2: 00ffca.ffffffff.0 00ffca.ffffffff.0
+Width: 1884
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+973 1718 m 1,0,-1
+ 1303 1718 l 1,1,-1
+ 1303 -193 l 1,2,-1
+ 973 -193 l 1,3,-1
+ 973 1718 l 1,0,-1
+584 1298 m 1,4,-1
+ 1016 1298 l 1,5,-1
+ 1016 1028 l 1,6,-1
+ 584 1028 l 1,7,-1
+ 584 1298 l 1,4,-1
+584 731 m 1,8,-1
+ 1016 731 l 1,9,-1
+ 1016 463 l 1,10,-1
+ 584 463 l 1,11,-1
+ 584 731 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar

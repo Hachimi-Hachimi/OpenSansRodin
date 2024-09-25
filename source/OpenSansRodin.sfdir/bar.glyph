@@ -1,0 +1,27 @@
+StartChar: bar
+Encoding: 124 124 95
+Width: 1139
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 2
+SVTCA[y-axis]
+MDAP[rnd]
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+442.049804688 1630.65039062 m 1,0,-1
+ 698.25 1630.65039062 l 1,1,-1
+ 698.25 -477.75 l 1,2,-1
+ 442.049804688 -477.75 l 1,3,-1
+ 442.049804688 1630.65039062 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

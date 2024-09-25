@@ -1,0 +1,36 @@
+StartChar: brokenbar
+Encoding: 166 166 104
+Width: 1139
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_4
+ 4
+ 6
+ 3
+ 0
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp2]
+MDAP[rnd]
+SHP[rp1]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+442.049804688 1630.65039062 m 1,0,-1
+ 698.25 1630.65039062 l 1,1,-1
+ 698.25 762.299804688 l 1,2,-1
+ 442.049804688 762.299804688 l 1,3,-1
+ 442.049804688 1630.65039062 l 1,0,-1
+442.049804688 390.599609375 m 1,4,-1
+ 698.25 390.599609375 l 1,5,-1
+ 698.25 -477.75 l 1,6,-1
+ 442.049804688 -477.75 l 1,7,-1
+ 442.049804688 390.599609375 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar

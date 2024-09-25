@@ -1,0 +1,14 @@
+StartChar: Omicron
+Encoding: 927 927 364
+Width: 1712
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-4" 43.0498 1535.1 basechar 0
+AnchorPoint: "Anchor-1" 856.8 0 basechar 0
+AnchorPoint: "Anchor-0" 856.8 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

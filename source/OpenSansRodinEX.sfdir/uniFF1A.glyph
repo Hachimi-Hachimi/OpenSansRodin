@@ -1,0 +1,36 @@
+StartChar: uniFF1A
+Encoding: 65306 65306 15951
+AltUni2: 00ff1a.00fe01.0
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1024 1024 m 256,0,1
+ 932 1024 932 1024 869.5 1086.5 c 128,-1,2
+ 807 1149 807 1149 807 1237 c 0,3,4
+ 807 1329 807 1329 869.5 1391.5 c 128,-1,5
+ 932 1454 932 1454 1024 1454 c 256,6,7
+ 1116 1454 1116 1454 1178.5 1391.5 c 128,-1,8
+ 1241 1329 1241 1329 1241 1237 c 0,9,10
+ 1241 1149 1241 1149 1178.5 1086.5 c 128,-1,11
+ 1116 1024 1116 1024 1024 1024 c 256,0,1
+1024 61 m 256,12,13
+ 932 61 932 61 869.5 123.5 c 128,-1,14
+ 807 186 807 186 807 274 c 0,15,16
+ 807 366 807 366 869.5 429 c 128,-1,17
+ 932 492 932 492 1024 492 c 256,18,19
+ 1116 492 1116 492 1178.5 429.5 c 128,-1,20
+ 1241 367 1241 367 1241 274 c 0,21,22
+ 1241 186 1241 186 1178.5 123.5 c 128,-1,23
+ 1116 61 1116 61 1024 61 c 256,12,13
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vert' Vertical Alternates lookup 17 subtable" uniFF1A.vert
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" colon
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" colon.hwid
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" colon.hwid colon
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 0" dx=-512 dy=0 dh=-1024 dv=0
+Position2: "NotoSansJP-Black-'halt' Alternative Half Widths lookup 4 per glyph data 1" dx=-512 dy=0 dh=-1024 dv=0
+EndChar

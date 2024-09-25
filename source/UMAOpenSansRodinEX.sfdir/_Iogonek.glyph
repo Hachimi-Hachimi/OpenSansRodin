@@ -1,0 +1,16 @@
+StartChar: Iogonek
+Encoding: 302 302 240
+Width: 730
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 336 731 N 1 0 0 1 53.55 0 2
+Validated: 5
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" Iogonek.salt
+Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" Iogonek.loclNAV
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 5 subtable" I uni0328
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" Iogonek.loclNAV Iogonek.salt
+EndChar

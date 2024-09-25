@@ -1,0 +1,14 @@
+StartChar: four.numr
+Encoding: 65634 -1 1086
+Width: 836
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 567 8308 N 1 0 0 1 0 -279.3 3
+Validated: 1
+Substitution2: "Single Substitution lookup 27 subtable" four.dnom
+Substitution2: "Single Substitution lookup 26 subtable" four.dnom
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" four.dnom
+EndChar

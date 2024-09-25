@@ -1,0 +1,43 @@
+StartChar: yen.hwid
+Encoding: 67665 -1 18107
+Width: 1024
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+330 0 m 1,0,-1
+ 330 340 l 1,1,-1
+ 57 340 l 1,2,-1
+ 57 516 l 1,3,-1
+ 330 516 l 1,4,-1
+ 330 639 l 1,5,-1
+ 57 639 l 1,6,-1
+ 57 815 l 1,7,-1
+ 254 815 l 1,8,-1
+ 6 1495 l 1,9,-1
+ 373 1495 l 1,10,-1
+ 442 1196 l 2,11,12
+ 460 1118 460 1118 477 1040.5 c 128,-1,13
+ 494 963 494 963 510 885 c 1,14,-1
+ 522 885 l 1,15,16
+ 536 963 536 963 555.5 1042.5 c 128,-1,17
+ 575 1122 575 1122 590 1196 c 2,18,-1
+ 655 1495 l 1,19,-1
+ 1014 1495 l 1,20,-1
+ 766 815 l 1,21,-1
+ 963 815 l 1,22,-1
+ 963 639 l 1,23,-1
+ 694 639 l 1,24,-1
+ 694 516 l 1,25,-1
+ 963 516 l 1,26,-1
+ 963 340 l 1,27,-1
+ 694 340 l 1,28,-1
+ 694 0 l 1,29,-1
+ 330 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" yen
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uniFFE5
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" uniFFE5 yen
+EndChar

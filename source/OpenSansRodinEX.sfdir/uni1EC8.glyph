@@ -1,0 +1,26 @@
+StartChar: uni1EC8
+Encoding: 7880 7880 818
+Width: 730
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_4
+ 9
+ 1
+ 2
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 600 -1 N 1 0 0 1 1043.7 354.9 2
+Validated: 1
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" uni1EC8.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni1EC8.salt
+EndChar

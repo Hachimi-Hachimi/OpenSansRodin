@@ -1,0 +1,31 @@
+StartChar: glyph17343
+Encoding: 67556 -1 17997
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+848 297 m 1,0,-1
+ 772 494 l 1,1,2
+ 903 529 903 529 972.5 595.5 c 128,-1,3
+ 1042 662 1042 662 1042 735 c 2,4,-1
+ 1040 952 l 1,5,-1
+ 1155 754 l 1,6,7
+ 1128 734 1128 734 1095.5 721.5 c 128,-1,8
+ 1063 709 1063 709 1026 709 c 0,9,10
+ 942 709 942 709 874.5 763 c 128,-1,11
+ 807 817 807 817 807 913 c 0,12,13
+ 807 1007 807 1007 873.5 1062.5 c 128,-1,14
+ 940 1118 940 1118 1034 1118 c 0,15,16
+ 1155 1118 1155 1118 1218.5 1035 c 128,-1,17
+ 1282 952 1282 952 1282 811 c 0,18,19
+ 1282 633 1282 633 1168.5 493.5 c 128,-1,20
+ 1055 354 1055 354 848 297 c 1,0,-1
+EndSplineSet
+Validated: 5
+Position2: "NotoSansJP-Black-'vhal' Alternate Vertical Half Metrics lookup 8 per glyph data 1" dx=0 dy=512 dh=0 dv=-1024
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 7 per glyph data 1" dx=0 dy=512 dh=0 dv=-1024
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 0" dx=-512 dy=0 dh=-1024 dv=0
+Position2: "NotoSansJP-Black-'halt' Alternative Half Widths lookup 4 per glyph data 1" dx=-512 dy=0 dh=-1024 dv=0
+EndChar

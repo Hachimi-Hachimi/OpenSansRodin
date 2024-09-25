@@ -1,0 +1,4890 @@
+SplineFontDB: 3.2
+FontName: OpenSansRodin-ExtraBold
+FullName: Open Sans Rodin ExtraBold
+FamilyName: Open Sans Rodin
+Weight: Bold
+Copyright: Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans); (c) 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
+Version: 3.003
+ItalicAngle: 0
+UnderlinePosition: -125
+UnderlineWidth: 50
+Ascent: 1638
+Descent: 410
+InvalidEm: 0
+sfntRevision: 0x000300c5
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 527 2070680753 4141596]
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 1
+OS2_UseTypoMetrics: 1
+CreationTime: 1571230327
+ModificationTime: 1727241114
+PfmFamily: 81
+TTFWeight: 800
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 0 0 0 0 0 0 0 0 0 0
+OS2TypoAscent: 2189
+OS2TypoAOffset: 0
+OS2TypoDescent: -600
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 2302
+OS2WinAOffset: 0
+OS2WinDescent: 651
+OS2WinDOffset: 0
+HheadAscent: 2189
+HheadAOffset: 0
+HheadDescent: -600
+HheadDOffset: 0
+OS2SubXSize: 1331
+OS2SubYSize: 1229
+OS2SubXOff: 0
+OS2SubYOff: 154
+OS2SupXSize: 1331
+OS2SupYSize: 1229
+OS2SupXOff: 0
+OS2SupYOff: 717
+OS2StrikeYSize: 50
+OS2StrikeYPos: 658
+OS2CapHeight: 1462
+OS2XHeight: 1096
+OS2Vendor: 'GOOG'
+OS2CodePages: 0000019f.00000000
+OS2UnicodeRanges: e00002ff.4000201b.00000028.00000000
+Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 2" { "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 1"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 3" { "Single Substitution lookup 3 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 4" { "Single Substitution lookup 4 subtable"  } []
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 5" { "'ccmp' Glyph Composition/Decomposition lookup 5 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition in Greek lookup 6" { "'ccmp' Glyph Composition/Decomposition in Greek lookup 6 subtable"  } ['ccmp' ('grek' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 7" { "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 7 subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 8" { "'locl' Localized Forms in Latin lookup 8 subtable"  } ['locl' ('latn' <'NAV ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 9" { "'locl' Localized Forms in Latin lookup 9 subtable"  } ['locl' ('latn' <'MOL ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 10" { "'locl' Localized Forms in Latin lookup 10 subtable"  } ['locl' ('latn' <'ROM ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 11" { "'locl' Localized Forms in Latin lookup 11 subtable"  } ['locl' ('latn' <'MAH ' > ) ]
+Lookup: 6 0 0 "'locl' Localized Forms in Latin lookup 12" { "'locl' Localized Forms in Latin lookup 12 subtable"  } ['locl' ('latn' <'CAT ' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 13" { "Ligature Substitution lookup 13 subtable"  } []
+Lookup: 4 0 0 "Ligature Substitution lookup 14" { "Ligature Substitution lookup 14 subtable"  } []
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 15" { "'locl' Localized Forms in Latin lookup 15 subtable"  } ['locl' ('latn' <'IPPH' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 16" { "'locl' Localized Forms in Latin lookup 16 subtable"  } ['locl' ('latn' <'APPH' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 17" { "'locl' Localized Forms in Cyrillic lookup 17 subtable"  } ['locl' ('cyrl' <'SRB ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Cyrillic lookup 18" { "'locl' Localized Forms in Cyrillic lookup 18 subtable"  } ['locl' ('cyrl' <'MKD ' > ) ]
+Lookup: 1 0 0 "'subs' Subscript lookup 19" { "'subs' Subscript lookup 19 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript lookup 20" { "'sups' Superscript lookup 20 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'numr' Numerators lookup 21" { "'numr' Numerators lookup 21 subtable"  } ['numr' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'dnom' Denominators lookup 22" { "'dnom' Denominators lookup 22 subtable"  } ['dnom' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'frac' Diagonal Fractions lookup 23" { "'frac' Diagonal Fractions lookup 23 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'frac' Diagonal Fractions lookup 24" { "'frac' Diagonal Fractions lookup 24 subtable"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 6 0 0 "'frac' Diagonal Fractions lookup 25" { "'frac' Diagonal Fractions lookup 25 contextual 0"  "'frac' Diagonal Fractions lookup 25 contextual 1"  } ['frac' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 26" { "Single Substitution lookup 26 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 27" { "Single Substitution lookup 27 subtable"  } []
+Lookup: 6 0 0 "'ordn' Ordinals lookup 28" { "'ordn' Ordinals lookup 28 contextual 0"  "'ordn' Ordinals lookup 28 contextual 1"  } ['ordn' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 29" { "Single Substitution lookup 29 subtable"  } []
+Lookup: 1 0 0 "'lnum' Lining Figures lookup 30" { "'lnum' Lining Figures lookup 30 subtable"  } ['lnum' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 31" { "'pnum' Proportional Numbers lookup 31 subtable"  } ['pnum' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 32" { "'tnum' Tabular Numbers lookup 32 subtable"  } ['tnum' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 33" { "'onum' Oldstyle Figures lookup 33 subtable" ("oldstyle") } ['onum' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 34" { "'liga' Standard Ligatures lookup 34 subtable"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'zero' Slashed Zero lookup 35" { "'zero' Slashed Zero lookup 35 subtable"  } ['zero' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' Style Set 2 lookup 36" { "'ss02' Style Set 2 lookup 36 subtable"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) 'ss01' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) 'ss02' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss03' Style Set 3 lookup 37" { "'ss03' Style Set 3 lookup 37 subtable"  } ['salt' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) 'ss01' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) 'ss03' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'ss04' Style Set 4 lookup 38" { "'ss04' Style Set 4 lookup 38 subtable"  } ['ss04' ('DFLT' <'dflt' > 'cyrl' <'MKD ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'APPH' 'CAT ' 'IPPH' 'MAH ' 'MOL ' 'NAV ' 'ROM ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lookup 0 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 261 0 0 "'mark' Mark Positioning lookup 1" { "'mark' Mark Positioning lookup 1 subtable"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 16 0 "'mkmk' Mark to Mark lookup 2" { "'mkmk' Mark to Mark lookup 2 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 65552 0 "'mkmk' Mark to Mark lookup 3" { "'mkmk' Mark to Mark lookup 3 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+MarkAttachSets: 3
+"MarkSet-0" 132 uni0326 dotbelowcomb uni0327 uni0328 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05B8 uni05BB uni05BD uni05C7
+"MarkSet-1" 191 tonos dieresistonos hookabovecomb uni1FDE gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0312 uni0485 uni0486 uni0483 uni0484 uni05B9
+"MarkSet-2" 7 uni05C1
+DEI: 91125
+ChainSub2: coverage "'ordn' Ordinals lookup 28 contextual 1" 0 0 0 1
+ 1 1 0
+  Coverage: 3 O o
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 29"
+EndFPST
+ChainSub2: coverage "'ordn' Ordinals lookup 28 contextual 0" 0 0 0 1
+ 1 1 0
+  Coverage: 3 A a
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 29"
+EndFPST
+ChainSub2: coverage "'frac' Diagonal Fractions lookup 25 contextual 1" 0 0 0 1
+ 1 1 0
+  Coverage: 99 zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+  BCoverage: 99 zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom
+ 1
+  SeqLookup: 0 "Single Substitution lookup 27"
+EndFPST
+ChainSub2: coverage "'frac' Diagonal Fractions lookup 25 contextual 0" 0 0 0 1
+ 1 1 0
+  Coverage: 99 zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr
+  BCoverage: 8 fraction
+ 1
+  SeqLookup: 0 "Single Substitution lookup 26"
+EndFPST
+ChainSub2: glyph "'locl' Localized Forms in Latin lookup 12 subtable" 0 0 0 2
+ String: 16 L periodcentered
+ BString: 0 
+ FString: 1 L
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 14"
+ String: 16 l periodcentered
+ BString: 0 
+ FString: 1 l
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 13"
+EndFPST
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 1" 0 0 0 1
+ 1 0 2
+  Coverage: 35 i j iogonek uni0456 uni0458 uni1ECB
+  FCoverage: 36 uni0326 dotbelowcomb uni0327 uni0328
+  FCoverage: 123 hookabovecomb gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0312
+ 1
+  SeqLookup: 0 "Single Substitution lookup 4"
+EndFPST
+ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 0" 0 0 0 1
+ 1 0 1
+  Coverage: 35 i j iogonek uni0456 uni0458 uni1ECB
+  FCoverage: 123 hookabovecomb gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni030F uni0312
+ 1
+  SeqLookup: 0 "Single Substitution lookup 3"
+EndFPST
+TtTable: prep
+NPUSHB
+ 255
+ 122
+ 60
+ 121
+ 85
+ 121
+ 89
+ 118
+ 56
+ 79
+ 31
+ 117
+ 56
+ 255
+ 31
+ 116
+ 56
+ 171
+ 31
+ 115
+ 54
+ 205
+ 31
+ 114
+ 54
+ 255
+ 31
+ 113
+ 54
+ 171
+ 31
+ 112
+ 55
+ 255
+ 31
+ 111
+ 53
+ 255
+ 31
+ 110
+ 51
+ 94
+ 31
+ 109
+ 51
+ 255
+ 31
+ 108
+ 52
+ 171
+ 31
+ 107
+ 52
+ 255
+ 31
+ 106
+ 50
+ 255
+ 31
+ 105
+ 48
+ 103
+ 31
+ 104
+ 48
+ 255
+ 31
+ 103
+ 48
+ 114
+ 31
+ 102
+ 48
+ 69
+ 31
+ 101
+ 49
+ 255
+ 31
+ 100
+ 49
+ 205
+ 31
+ 99
+ 49
+ 79
+ 31
+ 98
+ 47
+ 94
+ 31
+ 97
+ 47
+ 255
+ 31
+ 96
+ 46
+ 79
+ 31
+ 95
+ 46
+ 171
+ 31
+ 94
+ 46
+ 255
+ 31
+ 93
+ 46
+ 54
+ 31
+ 92
+ 45
+ 255
+ 31
+ 91
+ 44
+ 94
+ 31
+ 90
+ 44
+ 255
+ 31
+ 89
+ 44
+ 103
+ 31
+ 88
+ 43
+ 94
+ 31
+ 87
+ 43
+ 147
+ 31
+ 86
+ 43
+ 255
+ 31
+ 85
+ 42
+ 255
+ 31
+ 84
+ 41
+ 94
+ 31
+ 83
+ 41
+ 171
+ 31
+ 82
+ 41
+ 255
+ 31
+ 81
+ 40
+ 128
+ 31
+ 80
+ 40
+ 255
+ 31
+ 79
+ 40
+ 128
+ 31
+ 78
+ 39
+ 255
+ 31
+ 77
+ 38
+ 255
+ 31
+ 76
+ 37
+ 255
+ 31
+ 75
+ 37
+ 128
+ 31
+ 74
+ 37
+ 64
+ 31
+ 73
+ 36
+ 255
+ 31
+ 72
+ 35
+ 255
+ 31
+ 71
+ 34
+ 171
+ 31
+ 70
+ 34
+ 255
+ 31
+ 69
+ 34
+ 94
+ 31
+ 68
+ 33
+ 147
+ 31
+ 67
+ 33
+ 255
+ 31
+ 66
+ 31
+ 205
+ 31
+ 65
+ 31
+ 255
+ 31
+ 64
+ 31
+ 171
+ 31
+ 63
+ 32
+ 255
+ 31
+ 62
+ 32
+ 103
+ 31
+ 61
+ 30
+ 255
+ 31
+ 60
+ 29
+ 255
+ 31
+ 59
+ 28
+ 114
+ 31
+ 58
+ 28
+ 255
+ 31
+ 57
+ 28
+ 79
+ 31
+ 55
+NPUSHB
+ 194
+ 54
+ 94
+ 31
+ 52
+ 51
+ 79
+ 31
+ 49
+ 48
+ 43
+ 31
+ 41
+ 40
+ 79
+ 31
+ 40
+ 21
+ 27
+ 25
+ 92
+ 39
+ 27
+ 45
+ 31
+ 38
+ 37
+ 64
+ 31
+ 37
+ 14
+ 26
+ 25
+ 92
+ 36
+ 26
+ 49
+ 31
+ 35
+ 25
+ 31
+ 31
+ 34
+ 25
+ 255
+ 31
+ 33
+ 31
+ 103
+ 31
+ 32
+ 31
+ 64
+ 31
+ 31
+ 28
+ 24
+ 22
+ 92
+ 30
+ 24
+ 28
+ 31
+ 29
+ 23
+ 255
+ 31
+ 28
+ 22
+ 255
+ 31
+ 27
+ 50
+ 25
+ 31
+ 91
+ 24
+ 56
+ 22
+ 55
+ 91
+ 26
+ 50
+ 25
+ 31
+ 91
+ 23
+ 56
+ 22
+ 55
+ 91
+ 21
+ 25
+ 62
+ 22
+ 255
+ 90
+ 19
+ 49
+ 18
+ 85
+ 17
+ 49
+ 16
+ 85
+ 18
+ 89
+ 16
+ 89
+ 13
+ 50
+ 12
+ 85
+ 5
+ 50
+ 4
+ 85
+ 12
+ 89
+ 4
+ 89
+ 15
+ 4
+ 127
+ 4
+ 239
+ 4
+ 3
+ 15
+ 255
+ 14
+ 85
+ 11
+ 50
+ 10
+ 85
+ 7
+ 50
+ 6
+ 85
+ 1
+ 95
+ 0
+ 85
+ 14
+ 89
+ 10
+ 89
+ 6
+ 89
+ 207
+ 6
+ 239
+ 6
+ 2
+ 0
+ 89
+ 111
+ 0
+ 127
+ 0
+ 175
+ 0
+ 239
+ 0
+ 4
+ 16
+ 0
+ 1
+ 9
+ 50
+ 8
+ 85
+ 3
+ 50
+ 2
+ 85
+ 8
+ 89
+ 2
+ 89
+ 15
+ 2
+ 127
+ 2
+ 239
+ 2
+ 3
+ 16
+ 0
+ 3
+ 64
+ 64
+ 5
+ 1
+PUSHW_1
+ 400
+PUSHB_1
+ 84
+CALL
+MPPEM
+PUSHW_1
+ 2047
+GT
+MPPEM
+PUSHB_1
+ 9
+LT
+OR
+PUSHB_1
+ 1
+GETINFO
+PUSHB_1
+ 37
+GTEQ
+PUSHB_1
+ 1
+GETINFO
+PUSHB_1
+ 64
+LTEQ
+AND
+PUSHB_1
+ 6
+GETINFO
+PUSHB_1
+ 0
+NEQ
+AND
+OR
+IF
+PUSHB_2
+ 1
+ 1
+INSTCTRL
+EIF
+SCANCTRL
+SCANTYPE
+SCANTYPE
+SVTCA[y-axis]
+SCVTCI
+WS
+MPPEM
+PUSHB_1
+ 144
+GTEQ
+IF
+PUSHB_3
+ 3
+ 0
+ 0
+SCVTCI
+WS
+EIF
+PUSHB_2
+ 2
+ 2
+RS
+LTEQ
+IF
+PUSHB_2
+ 4
+ 3
+INSTCTRL
+EIF
+WS
+DELTAC1
+SVTCA[y-axis]
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+DELTAC1
+DELTAC1
+SVTCA[y-axis]
+CALL
+DELTAC1
+SVTCA[y-axis]
+CALL
+SVTCA[y-axis]
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+DELTAC1
+SVTCA[y-axis]
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+SVTCA[y-axis]
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SVTCA[x-axis]
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+SVTCA[y-axis]
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[x-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+CALL
+SVTCA[y-axis]
+CALL
+CALL
+RTG
+EndTTInstrs
+TtTable: fpgm
+NPUSHB
+ 74
+ 153
+ 152
+ 151
+ 150
+ 135
+ 134
+ 133
+ 132
+ 131
+ 130
+ 129
+ 128
+ 127
+ 126
+ 125
+ 124
+ 123
+ 122
+ 121
+ 120
+ 119
+ 118
+ 117
+ 116
+ 115
+ 114
+ 113
+ 112
+ 111
+ 110
+ 109
+ 108
+ 107
+ 106
+ 105
+ 104
+ 103
+ 102
+ 101
+ 100
+ 99
+ 98
+ 97
+ 96
+ 95
+ 94
+ 93
+ 92
+ 91
+ 90
+ 89
+ 88
+ 87
+ 86
+ 85
+ 84
+ 83
+ 81
+ 80
+ 79
+ 78
+ 77
+ 76
+ 75
+ 74
+ 73
+ 72
+ 71
+ 70
+ 40
+ 31
+ 16
+ 10
+ 9
+FDEF
+SVTCA[x-axis]
+PUSHB_2
+ 11
+ 10
+RS
+SWAP
+RS
+NEG
+SPVFS
+ENDF
+FDEF
+SVTCA[y-axis]
+PUSHB_2
+ 10
+ 11
+RS
+SWAP
+RS
+SFVFS
+ENDF
+FDEF
+SVTCA[x-axis]
+PUSHB_1
+ 6
+RS
+PUSHB_1
+ 7
+RS
+NEG
+SPVFS
+ENDF
+FDEF
+PUSHB_1
+ 79
+CALL
+DUP
+PUSHB_1
+ 64
+LTEQ
+IF
+POP
+MPPEM
+GT
+IF
+RCVT
+WCVTP
+ELSE
+POP
+POP
+EIF
+ELSE
+SWAP
+POP
+PUSHB_1
+ 64
+PUSHB_1
+ 4
+CINDEX
+RCVT
+PUSHB_1
+ 4
+CINDEX
+RCVT
+SUB
+ABS
+ROLL
+MUL
+GT
+IF
+RCVT
+WCVTP
+ELSE
+POP
+POP
+EIF
+EIF
+ENDF
+FDEF
+SVTCA[y-axis]
+PUSHB_1
+ 7
+RS
+PUSHB_1
+ 6
+RS
+SFVFS
+ENDF
+FDEF
+MPPEM
+GTEQ
+SWAP
+MPPEM
+LTEQ
+AND
+IF
+DUP
+RCVT
+ROLL
+ADD
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+MPPEM
+EQ
+IF
+DUP
+RCVT
+ROLL
+ADD
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+MPPEM
+GTEQ
+SWAP
+MPPEM
+LTEQ
+AND
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+MPPEM
+EQ
+IF
+SHPIX
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 2
+RS
+EQ
+IF
+PUSHB_1
+ 70
+CALL
+ELSE
+POP
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 2
+RS
+EQ
+IF
+PUSHB_1
+ 71
+CALL
+ELSE
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 2
+RS
+EQ
+IF
+PUSHB_1
+ 72
+CALL
+ELSE
+POP
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 2
+RS
+EQ
+IF
+PUSHB_1
+ 73
+CALL
+ELSE
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+SWAP
+DUP
+PUSHB_1
+ 0
+LT
+ROLL
+ROLL
+ABS
+PUSHB_2
+ 0
+ 3
+CINDEX
+EQ
+IF
+PUSHB_1
+ 64
+ELSE
+PUSHB_2
+ 1
+ 3
+CINDEX
+EQ
+IF
+PUSHB_1
+ 5
+RS
+MAX
+EIF
+PUSHB_1
+ 79
+CALL
+EIF
+SWAP
+PUSHB_1
+ 98
+CALL
+SWAP
+POP
+SWAP
+IF
+NEG
+EIF
+ENDF
+FDEF
+PUSHB_2
+ 8
+ 0
+GPV
+POP
+EQ
+ADD
+RS
+ENDF
+FDEF
+PUSHB_2
+ 12
+ 0
+GPV
+POP
+EQ
+ADD
+RS
+ENDF
+FDEF
+SVTCA[x-axis]
+DUP
+GC[orig]
+PUSHB_1
+ 2
+RS
+DUP
+PUSHW_1
+ 4096
+DIV
+PUSHW_1
+ 4096
+MUL
+EVEN
+SWAP
+PUSHW_1
+ 256
+DIV
+PUSHW_1
+ 4096
+MUL
+EVEN
+AND
+IF
+PUSHB_1
+ 32
+ADD
+FLOOR
+EIF
+SCFS
+ENDF
+FDEF
+PUSHB_2
+ 0
+ 2
+CINDEX
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 2
+CINDEX
+GTEQ
+PUSHW_1
+ 53
+SWAP
+JROT
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 2
+CINDEX
+ADD
+PUSHB_1
+ 32
+MUL
+DUP
+DUP
+PUSHB_1
+ 6
+CINDEX
+SWAP
+DIV
+LT
+IF
+ROLL
+POP
+PUSHB_1
+ 1
+ADD
+SWAP
+ELSE
+DUP
+DUP
+PUSHB_1
+ 6
+CINDEX
+SWAP
+DIV
+GT
+IF
+SWAP
+POP
+PUSHB_1
+ 1
+SUB
+ELSE
+ROLL
+POP
+SWAP
+POP
+DUP
+EIF
+EIF
+PUSHW_1
+ -63
+JMPR
+ADD
+PUSHB_1
+ 32
+MUL
+SWAP
+POP
+ENDF
+FDEF
+PUSHB_2
+ 2
+ 0
+WS
+PUSHB_2
+ 35
+ 1
+GETINFO
+LTEQ
+PUSHB_2
+ 64
+ 1
+GETINFO
+GTEQ
+AND
+IF
+PUSHW_1
+ 4096
+PUSHB_1
+ 32
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 1
+ 2
+RS
+ADD
+WS
+EIF
+PUSHB_2
+ 36
+ 1
+GETINFO
+LTEQ
+IF
+PUSHW_1
+ 8192
+PUSHB_1
+ 64
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 2
+ 2
+RS
+ADD
+WS
+PUSHB_2
+ 36
+ 1
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 32
+ 2
+RS
+ADD
+WS
+SVTCA[y-axis]
+MPPEM
+SVTCA[x-axis]
+MPPEM
+GT
+IF
+PUSHB_3
+ 2
+ 8
+ 2
+RS
+ADD
+WS
+EIF
+ELSE
+PUSHW_1
+ 16384
+PUSHB_1
+ 128
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 4
+ 2
+RS
+ADD
+WS
+EIF
+PUSHW_1
+ 16384
+PUSHB_1
+ 128
+MUL
+PUSHW_1
+ 256
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 8
+ 2
+RS
+ADD
+WS
+EIF
+PUSHW_2
+ 16384
+ 256
+MUL
+PUSHW_1
+ 512
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 16
+ 2
+RS
+ADD
+WS
+EIF
+PUSHB_2
+ 38
+ 1
+GETINFO
+LTEQ
+IF
+PUSHW_2
+ 16384
+ 512
+MUL
+PUSHW_1
+ 1024
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 64
+ 2
+RS
+ADD
+WS
+EIF
+PUSHW_2
+ 16384
+ 1024
+MUL
+PUSHW_1
+ 2048
+GETINFO
+EQ
+IF
+PUSHB_3
+ 2
+ 128
+ 2
+RS
+ADD
+WS
+EIF
+PUSHB_2
+ 40
+ 1
+GETINFO
+LTEQ
+IF
+PUSHW_2
+ 16384
+ 2048
+MUL
+PUSHW_1
+ 4096
+GETINFO
+EQ
+IF
+PUSHW_2
+ 2
+ 256
+PUSHB_1
+ 2
+RS
+ADD
+WS
+EIF
+EIF
+EIF
+EIF
+EIF
+EIF
+EIF
+PUSHB_2
+ 0
+ 2
+RS
+EQ
+IF
+NPUSHB
+ 10
+ 5
+ 64
+ 8
+ 64
+ 9
+ 64
+ 12
+ 2
+ 13
+ 2
+ELSE
+PUSHB_2
+ 1
+ 2
+RS
+EQ
+IF
+PUSHB_3
+ 5
+ 64
+ 8
+PUSHW_3
+ 256
+ 9
+ 256
+PUSHB_4
+ 12
+ 1
+ 13
+ 1
+ELSE
+PUSHB_2
+ 128
+ 2
+RS
+GT
+IF
+PUSHB_3
+ 5
+ 64
+ 8
+PUSHW_1
+ 384
+PUSHB_2
+ 9
+ 64
+ELSE
+PUSHW_1
+ 256
+PUSHB_1
+ 2
+RS
+GT
+IF
+PUSHB_3
+ 5
+ 64
+ 8
+PUSHW_3
+ 384
+ 9
+ 320
+ELSE
+PUSHW_1
+ 384
+PUSHB_1
+ 2
+RS
+GT
+IF
+PUSHB_3
+ 5
+ 64
+ 8
+PUSHW_1
+ 512
+PUSHB_2
+ 9
+ 64
+ELSE
+PUSHB_3
+ 5
+ 64
+ 8
+PUSHW_3
+ 256
+ 9
+ 256
+EIF
+EIF
+EIF
+PUSHW_1
+ 16384
+PUSHB_1
+ 128
+GETINFO
+NEQ
+PUSHW_2
+ 16384
+ 512
+MUL
+PUSHW_1
+ 1024
+GETINFO
+NEQ
+AND
+IF
+PUSHB_4
+ 12
+ 0
+ 13
+ 1
+ELSE
+PUSHB_4
+ 12
+ 0
+ 13
+ 1
+EIF
+EIF
+EIF
+WS
+WS
+WS
+WS
+WS
+ENDF
+FDEF
+RCVT
+PUSHB_2
+ 2
+ 78
+CALL
+SWAP
+PUSHB_1
+ 79
+CALL
+DUP
+PUSHB_1
+ 64
+LTEQ
+IF
+POP
+MPPEM
+LTEQ
+IF
+PUSHB_1
+ 2
+CINDEX
+RCVT
+PUSHB_2
+ 1
+ 78
+CALL
+ADD
+EIF
+ELSE
+SWAP
+MPPEM
+LTEQ
+IF
+PUSHB_1
+ 3
+CINDEX
+RCVT
+DUP
+ABS
+ROLL
+MUL
+PUSHB_1
+ 64
+GTEQ
+IF
+PUSHB_2
+ 2
+ 78
+CALL
+ADD
+ELSE
+POP
+EIF
+ELSE
+POP
+EIF
+EIF
+WCVTP
+ENDF
+FDEF
+DUP
+PUSHB_1
+ 0
+LT
+DUP
+IF
+SWAP
+NEG
+ELSE
+SWAP
+EIF
+PUSHB_2
+ 20
+ 20
+ROLL
+WCVTF
+RCVT
+PUSHB_2
+ 16
+ 16
+RS
+MPPEM
+ROLL
+RS
+LTEQ
+AND
+IF
+PUSHB_1
+ 64
+ELSE
+PUSHB_1
+ 79
+CALL
+EIF
+SWAP
+PUSHB_2
+ 97
+ 6
+MINDEX
+ADD
+CALL
+ROLL
+IF
+PUSHB_1
+ 5
+RS
+MAX
+EIF
+SWAP
+IF
+NEG
+EIF
+SWAP
+SRP0
+MSIRP[no-rp0]
+ENDF
+FDEF
+PUSHB_1
+ 3
+CINDEX
+MD[grid]
+MUL
+SWAP
+GC[cur]
+ADD
+PUSHB_1
+ 79
+CALL
+SWAP
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+MD[grid]
+PUSHB_1
+ 3
+CINDEX
+MUL
+ODD
+DUP
+ADD
+PUSHB_1
+ 98
+ADD
+CALL
+PUSHB_1
+ 3
+CINDEX
+DUP
+SRP0
+GC[cur]
+ROLL
+GC[cur]
+ADD
+PUSHB_1
+ 32
+MUL
+SUB
+MSIRP[no-rp0]
+ENDF
+FDEF
+PUSHB_1
+ 0
+SZPS
+PUSHB_2
+ 2
+ 3
+CINDEX
+PUSHB_2
+ 1
+ 4
+CINDEX
+SVTCA[x-axis]
+MIAP[no-rnd]
+SVTCA[y-axis]
+MIAP[no-rnd]
+PUSHB_2
+ 1
+ 2
+SPVTL[parallel]
+GPV
+PUSHB_1
+ 10
+SWAP
+NEG
+WS
+PUSHB_1
+ 11
+SWAP
+WS
+PUSHB_2
+ 2
+ 3
+CINDEX
+PUSHB_2
+ 1
+ 4
+CINDEX
+SVTCA[x-axis]
+MIAP[rnd]
+SVTCA[y-axis]
+MIAP[rnd]
+PUSHB_2
+ 1
+ 2
+SPVTL[parallel]
+GPV
+PUSHB_1
+ 6
+SWAP
+NEG
+WS
+PUSHB_1
+ 7
+SWAP
+WS
+PUSHB_1
+ 1
+SZPS
+PUSHB_2
+ 0
+ 2
+RS
+EQ
+IF
+RCVT
+SWAP
+RCVT
+DUP
+RTG
+ROUND[Black]
+ROLL
+MUL
+SWAP
+DIV
+DUP
+DUP
+PUSHB_1
+ 64
+LT
+IF
+CEILING
+ELSE
+FLOOR
+EIF
+SUB
+PUSHB_1
+ 32
+MUL
+PUSHB_1
+ 64
+SWAP
+SUB
+PUSHB_1
+ 4
+SWAP
+WS
+ELSE
+PUSHB_2
+ 4
+ 0
+WS
+POP
+POP
+EIF
+RTG
+SVTCA[x-axis]
+ENDF
+FDEF
+DUP
+RCVT
+PUSHB_2
+ 0
+ 78
+CALL
+WCVTP
+ENDF
+FDEF
+MPPEM
+LTEQ
+PUSHB_2
+ 64
+ 79
+CALL
+LT
+OR
+IF
+DUP
+RCVT
+PUSHB_2
+ 1
+ 78
+CALL
+DUP
+ROLL
+ROLL
+WCVTP
+DUP
+PUSHB_2
+ 64
+ 4
+MINDEX
+SUB
+MUL
+SUB
+PUSHB_2
+ 1
+ 78
+CALL
+WCVTP
+POP
+ELSE
+SWAP
+POP
+ROLL
+RCVT
+PUSHB_2
+ 1
+ 78
+CALL
+DUP
+ROLL
+SWAP
+WCVTP
+WCVTP
+EIF
+ENDF
+FDEF
+MPPEM
+LTEQ
+PUSHB_2
+ 64
+ 79
+CALL
+LT
+OR
+IF
+RCVT
+DUP
+ROLL
+PUSHB_1
+ 64
+SUB
+MUL
+ADD
+ELSE
+SWAP
+POP
+RCVT
+EIF
+PUSHB_2
+ 1
+ 78
+CALL
+WCVTP
+ENDF
+FDEF
+SWAP
+RCVT
+DUP
+ROLL
+RCVT
+SWAP
+SUB
+DUP
+ABS
+PUSHB_1
+ 64
+LTEQ
+PUSHB_1
+ 4
+CINDEX
+DUP
+PUSHB_1
+ 0
+GTEQ
+SWAP
+PUSHB_1
+ 64
+LTEQ
+AND
+AND
+PUSHB_2
+ 64
+ 79
+CALL
+EQ
+AND
+IF
+ROLL
+GPV
+ABS
+SWAP
+ABS
+SWAP
+GTEQ
+IF
+PUSHB_2
+ 64
+ 64
+ROLL
+SUB
+DUP
+MUL
+SUB
+ELSE
+DUP
+MUL
+EIF
+ELSE
+ROLL
+EIF
+MUL
+PUSHB_2
+ 2
+ 78
+CALL
+ADD
+WCVTP
+ENDF
+FDEF
+SVTCA[x-axis]
+ENDF
+FDEF
+SVTCA[y-axis]
+ENDF
+FDEF
+SFVTCA[x-axis]
+PUSHB_2
+ 11
+ 10
+RS
+SWAP
+RS
+NEG
+SPVFS
+ENDF
+FDEF
+PUSHB_2
+ 10
+ 11
+RS
+SWAP
+RS
+SFVFS
+SPVTCA[y-axis]
+ENDF
+FDEF
+PUSHB_1
+ 2
+CINDEX
+MUL
+FLOOR
+PUSHB_1
+ 2
+CINDEX
+PUSHW_1
+ 8192
+DIV
+ADD
+SWAP
+DIV
+ENDF
+FDEF
+PUSHB_1
+ 2
+CINDEX
+MUL
+PUSHB_1
+ 32
+ADD
+FLOOR
+PUSHB_1
+ 2
+CINDEX
+PUSHW_1
+ 8192
+DIV
+ADD
+SWAP
+DIV
+ENDF
+FDEF
+PUSHB_1
+ 2
+CINDEX
+MUL
+CEILING
+PUSHB_1
+ 2
+CINDEX
+PUSHW_1
+ 8192
+DIV
+ADD
+SWAP
+DIV
+ENDF
+FDEF
+PUSHB_1
+ 2
+CINDEX
+MUL
+FLOOR
+PUSHB_1
+ 32
+ADD
+PUSHB_1
+ 2
+CINDEX
+PUSHW_1
+ 8192
+DIV
+ADD
+SWAP
+DIV
+ENDF
+FDEF
+SWAP
+MD[orig]
+PUSHB_2
+ 2
+ 78
+CALL
+ENDF
+FDEF
+SWAP
+MD[orig]
+PUSHB_2
+ 1
+ 78
+CALL
+ENDF
+FDEF
+SWAP
+ROLL
+MD[orig]
+SWAP
+RCVT
+ABS
+PUSHB_1
+ 2
+CINDEX
+ABS
+PUSHB_1
+ 2
+CINDEX
+SUB
+ABS
+PUSHB_1
+ 3
+RS
+GT
+IF
+POP
+DUP
+ABS
+EIF
+PUSHB_2
+ 2
+ 78
+CALL
+SWAP
+PUSHB_1
+ 0
+LT
+IF
+NEG
+EIF
+ENDF
+FDEF
+SWAP
+ROLL
+MD[orig]
+SWAP
+RCVT
+ABS
+PUSHB_1
+ 2
+CINDEX
+ABS
+PUSHB_1
+ 2
+CINDEX
+SUB
+ABS
+PUSHB_1
+ 3
+RS
+GT
+IF
+POP
+DUP
+ABS
+EIF
+PUSHB_2
+ 1
+ 78
+CALL
+SWAP
+PUSHB_1
+ 0
+LT
+IF
+NEG
+EIF
+ENDF
+FDEF
+DUP
+PUSHB_1
+ 3
+CINDEX
+MD[orig]
+PUSHB_2
+ 2
+ 78
+CALL
+ROLL
+SRP0
+MSIRP[rp0]
+ENDF
+FDEF
+DUP
+PUSHB_1
+ 3
+CINDEX
+MD[orig]
+PUSHB_2
+ 1
+ 78
+CALL
+ROLL
+SRP0
+MSIRP[rp0]
+ENDF
+FDEF
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+ROLL
+PUSHB_1
+ 103
+CALL
+ROLL
+SRP0
+MSIRP[rp0]
+ENDF
+FDEF
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+ROLL
+PUSHB_1
+ 104
+CALL
+ROLL
+SRP0
+MSIRP[rp0]
+ENDF
+FDEF
+PUSHB_1
+ 3
+CINDEX
+GC[cur]
+PUSHB_1
+ 3
+CINDEX
+GC[cur]
+ADD
+PUSHB_1
+ 4
+CINDEX
+MDAP[no-rnd]
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+MINDEX
+DUP
+PUSHB_1
+ 0
+LT
+IF
+POP
+PUSHB_1
+ 106
+ELSE
+PUSHB_1
+ 108
+EIF
+CALL
+PUSHB_1
+ 3
+CINDEX
+GC[cur]
+PUSHB_1
+ 3
+CINDEX
+GC[cur]
+ADD
+SUB
+PUSHB_1
+ 128
+DIV
+DUP
+ROLL
+DUP
+SRP0
+SWAP
+MSIRP[no-rp0]
+SWAP
+DUP
+SRP0
+SWAP
+MSIRP[no-rp0]
+ENDF
+FDEF
+PUSHB_1
+ 3
+CINDEX
+GC[orig]
+PUSHB_1
+ 3
+CINDEX
+GC[orig]
+ADD
+PUSHB_1
+ 5
+CINDEX
+GC[orig]
+PUSHB_1
+ 128
+MUL
+SUB
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+MD[grid]
+MUL
+SWAP
+PUSHB_1
+ 5
+CINDEX
+MD[orig]
+PUSHB_1
+ 128
+MUL
+DUP
+IF
+DIV
+ELSE
+POP
+EIF
+PUSHB_1
+ 4
+MINDEX
+GC[cur]
+ADD
+ROLL
+GC[cur]
+ROLL
+GC[cur]
+ADD
+PUSHB_1
+ 32
+MUL
+SUB
+ENDF
+FDEF
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 110
+CALL
+DUP
+ROLL
+DUP
+SRP0
+SWAP
+MSIRP[no-rp0]
+SWAP
+DUP
+SRP0
+SWAP
+MSIRP[no-rp0]
+ENDF
+FDEF
+SWAP
+DUP
+PUSHB_1
+ 1
+EQ
+IF
+POP
+PUSHB_1
+ 2
+CINDEX
+PUSHB_2
+ 2
+ 78
+CALL
+PUSHB_1
+ 128
+LT
+DUP
+ADD
+EIF
+DUP
+ADD
+ADD
+DUP
+PUSHB_1
+ 1
+LTEQ
+IF
+POP
+POP
+ELSE
+DUP
+PUSHB_1
+ 5
+LTEQ
+IF
+POP
+DUP
+FLOOR
+SUB
+PUSHB_1
+ 64
+SWAP
+SUB
+PUSHB_2
+ 0
+ 3
+CINDEX
+LT
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+LT
+AND
+IF
+DUP
+PUSHB_1
+ 3
+CINDEX
+SUB
+ROLL
+GTEQ
+IF
+POP
+PUSHB_1
+ 0
+EIF
+ELSE
+POP
+EIF
+ELSE
+PUSHB_1
+ 7
+EQ
+IF
+DUP
+FLOOR
+SUB
+NEG
+SWAP
+POP
+ELSE
+POP
+POP
+PUSHB_1
+ 0
+EIF
+EIF
+EIF
+PUSHB_2
+ 2
+ 78
+CALL
+ENDF
+FDEF
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+MD[orig]
+PUSHB_1
+ 0
+GTEQ
+IF
+PUSHB_1
+ 0
+ELSE
+ROLL
+ROLL
+SWAP
+ROLL
+PUSHB_1
+ 1
+EIF
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+DUP
+FLOOR
+SUB
+DUP
+PUSHB_1
+ 5
+MINDEX
+PUSHB_1
+ 6
+MINDEX
+MD[grid]
+PUSHB_1
+ 5
+MINDEX
+PUSHB_1
+ 5
+MINDEX
+PUSHB_1
+ 112
+CALL
+SWAP
+SUB
+NEG
+PUSHB_1
+ 32
+ADD
+DUP
+FLOOR
+SUB
+PUSHB_1
+ 32
+SUB
+NEG
+ENDF
+FDEF
+PUSHB_1
+ 2
+CINDEX
+GC[cur]
+DUP
+ROLL
+DUP
+PUSHB_1
+ 0
+LT
+IF
+POP
+PUSHB_2
+ 2
+ 78
+CALL
+ELSE
+RCVT
+SWAP
+POP
+EIF
+SUB
+NEG
+PUSHB_1
+ 2
+CINDEX
+SRP0
+MSIRP[rp0]
+ENDF
+FDEF
+PUSHB_1
+ 4
+MINDEX
+DUP
+PUSHW_1
+ 512
+DIV
+DUP
+PUSHW_1
+ 512
+MUL
+ROLL
+SWAP
+SUB
+DUP
+PUSHB_1
+ 93
+ADD
+CALL
+PUSHB_1
+ 5
+CINDEX
+SRP1
+ROLL
+SRP2
+ROLL
+DUP
+IP
+ROLL
+IF
+PUSHW_2
+ 93
+ 4096
+PUSHB_1
+ 4
+MINDEX
+MUL
+ODD
+ADD
+CALL
+SWAP
+POP
+DUP
+SRP0
+DUP
+GC[cur]
+DUP
+PUSHB_2
+ 2
+ 78
+CALL
+SWAP
+SUB
+ELSE
+SWAP
+POP
+DUP
+ROLL
+DUP
+SRP0
+MD[grid]
+PUSHB_2
+ 2
+ 78
+CALL
+EIF
+MSIRP[rp0]
+ENDF
+FDEF
+PUSHW_2
+ 93
+ 4096
+PUSHB_1
+ 9
+CINDEX
+MUL
+ODD
+ADD
+CALL
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+MINDEX
+PUSHB_1
+ 109
+CALL
+PUSHB_2
+ 93
+ 7
+CINDEX
+ADD
+CALL
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 111
+CALL
+PUSHW_2
+ 93
+ 4096
+PUSHB_1
+ 8
+MINDEX
+MUL
+ODD
+ADD
+CALL
+DUP
+PUSHB_1
+ 0
+GT
+IF
+PUSHB_1
+ 80
+CALL
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 113
+CALL
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+PUSHB_1
+ 0
+GT
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 1
+GT
+AND
+IF
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+MD[grid]
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+MD[grid]
+ADD
+DUP
+PUSHB_1
+ 64
+GT
+IF
+POP
+ELSE
+PUSHB_1
+ 0
+GT
+IF
+DUP
+PUSHB_1
+ 2
+EQ
+IF
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+MD[grid]
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+ELSE
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+MD[grid]
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+EIF
+EIF
+EIF
+EIF
+EIF
+POP
+POP
+POP
+POP
+POP
+ENDF
+FDEF
+PUSHW_2
+ 93
+ 4096
+PUSHB_1
+ 11
+CINDEX
+MUL
+ODD
+ADD
+CALL
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 12
+CINDEX
+PUSHB_1
+ 12
+CINDEX
+PUSHB_1
+ 9
+CINDEX
+PUSHB_1
+ 8
+CINDEX
+PUSHB_1
+ 110
+CALL
+PUSHB_1
+ 4
+SLOOP
+SHPIX
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 7
+MINDEX
+PUSHB_1
+ 109
+CALL
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 109
+CALL
+PUSHB_1
+ 80
+CALL
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 113
+CALL
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+DUP
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 113
+CALL
+ADD
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+NEG
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 2
+CINDEX
+ADD
+DUP
+PUSHB_1
+ 64
+GTEQ
+IF
+POP
+PUSHB_1
+ 64
+SUB
+SWAP
+PUSHB_1
+ 64
+SUB
+SWAP
+ELSE
+PUSHW_1
+ -64
+LT
+IF
+PUSHB_1
+ 64
+ADD
+SWAP
+PUSHB_1
+ 64
+ADD
+SWAP
+EIF
+EIF
+PUSHB_1
+ 8
+CINDEX
+PUSHB_1
+ 8
+CINDEX
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+ROLL
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+DUP
+PUSHB_1
+ 0
+GT
+IF
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 8
+CINDEX
+MD[grid]
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+MD[grid]
+ADD
+DUP
+PUSHB_1
+ 64
+GT
+IF
+POP
+ELSE
+PUSHB_1
+ 0
+GT
+IF
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 11
+CINDEX
+PUSHB_1
+ 11
+CINDEX
+MD[grid]
+PUSHB_1
+ 4
+SLOOP
+SHPIX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 113
+CALL
+PUSHB_1
+ 4
+SLOOP
+SHPIX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 113
+CALL
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+ELSE
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHW_1
+ -64
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+EIF
+EIF
+EIF
+POP
+POP
+POP
+POP
+POP
+POP
+POP
+POP
+ENDF
+FDEF
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+SDPVTL[orthog]
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+ROLL
+DUP
+PUSHB_1
+ 0
+LT
+IF
+POP
+PUSHB_1
+ 101
+ELSE
+PUSHB_1
+ 104
+EIF
+CALL
+ABS
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+SPVTL[parallel]
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+MD[grid]
+DUP
+DUP
+MUL
+PUSHB_1
+ 3
+CINDEX
+DUP
+MUL
+LTEQ
+PUSHB_2
+ 0
+ 3
+CINDEX
+EQ
+OR
+IF
+POP
+POP
+SWAP
+POP
+SPVTL[orthog]
+ELSE
+DUP
+MUL
+PUSHB_1
+ 2
+CINDEX
+DUP
+MUL
+SUB
+DUP
+PUSHB_1
+ 83
+CALL
+ROLL
+MUL
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+SDPVTL[orthog]
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+MINDEX
+MD[orig]
+PUSHB_1
+ 0
+LT
+IF
+NEG
+EIF
+PUSHB_1
+ 4
+MINDEX
+DUP
+SVTCA[x-axis]
+GC[cur]
+SWAP
+SVTCA[y-axis]
+GC[cur]
+PUSHB_1
+ 5
+MINDEX
+DUP
+SVTCA[x-axis]
+GC[cur]
+SWAP
+SVTCA[y-axis]
+GC[cur]
+PUSHB_1
+ 0
+SZPS
+SVTCA[y-axis]
+PUSHB_1
+ 0
+SWAP
+SCFS
+SVTCA[x-axis]
+PUSHB_1
+ 0
+SWAP
+SCFS
+SVTCA[y-axis]
+DUP
+PUSHB_1
+ 1
+SWAP
+SCFS
+PUSHB_1
+ 2
+SWAP
+SCFS
+SVTCA[x-axis]
+DUP
+PUSHB_1
+ 1
+SWAP
+SCFS
+PUSHB_1
+ 2
+SWAP
+SCFS
+SWAP
+PUSHB_3
+ 2
+ 0
+ 1
+SFVTL[parallel]
+SWAP
+SHPIX
+PUSHB_3
+ 2
+ 0
+ 1
+SFVTL[orthog]
+SWAP
+SHPIX
+PUSHB_2
+ 2
+ 1
+SPVTL[orthog]
+PUSHB_1
+ 1
+SZPS
+EIF
+ENDF
+FDEF
+SWAP
+SRP0
+GFV
+GPV
+ROLL
+MUL
+SWAP
+ROLL
+MUL
+ADD
+ABS
+PUSHW_2
+ 16384
+ 1024
+MUL
+LT
+IF
+PUSHB_1
+ 0
+SHPIX
+ELSE
+ALIGNRP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 9
+CINDEX
+PUSHB_1
+ 9
+CINDEX
+PUSHB_1
+ 7
+MINDEX
+PUSHB_1
+ 118
+CALL
+SWAP
+PUSHB_1
+ 0
+EQ
+IF
+SFVTCA[x-axis]
+ELSE
+SFVTCA[y-axis]
+EIF
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 6
+MINDEX
+PUSHB_1
+ 119
+CALL
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+MINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+MINDEX
+PUSHB_1
+ 118
+CALL
+PUSHB_1
+ 0
+EQ
+IF
+SFVTCA[x-axis]
+ELSE
+SFVTCA[y-axis]
+EIF
+PUSHB_1
+ 119
+CALL
+ENDF
+FDEF
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 8
+MINDEX
+PUSHB_1
+ 118
+CALL
+ROLL
+PUSHB_1
+ 0
+EQ
+IF
+SFVTCA[x-axis]
+ELSE
+SFVTCA[y-axis]
+EIF
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 7
+MINDEX
+PUSHB_1
+ 119
+CALL
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+MINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+MINDEX
+PUSHB_1
+ 118
+CALL
+SFVTL[parallel]
+PUSHB_1
+ 119
+CALL
+ENDF
+FDEF
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 8
+MINDEX
+PUSHB_1
+ 118
+CALL
+ROLL
+ROLL
+SFVTL[parallel]
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 6
+MINDEX
+PUSHB_1
+ 119
+CALL
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+MINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+MINDEX
+PUSHB_1
+ 118
+CALL
+PUSHB_1
+ 0
+EQ
+IF
+SFVTCA[x-axis]
+ELSE
+SFVTCA[y-axis]
+EIF
+PUSHB_1
+ 119
+CALL
+ENDF
+FDEF
+PUSHB_1
+ 8
+CINDEX
+PUSHB_1
+ 11
+CINDEX
+PUSHB_1
+ 11
+CINDEX
+PUSHB_1
+ 9
+MINDEX
+PUSHB_1
+ 118
+CALL
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 4
+MINDEX
+SFVTL[parallel]
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 7
+MINDEX
+PUSHB_1
+ 119
+CALL
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+MINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+MINDEX
+PUSHB_1
+ 118
+CALL
+SFVTL[parallel]
+PUSHB_1
+ 119
+CALL
+ENDF
+FDEF
+SPVTCA[x-axis]
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+MD[orig]
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+MD[orig]
+SPVTCA[y-axis]
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 5
+MINDEX
+MD[orig]
+PUSHB_1
+ 5
+MINDEX
+PUSHB_1
+ 5
+MINDEX
+MD[orig]
+PUSHB_1
+ 4
+MINDEX
+MUL
+ROLL
+ROLL
+MUL
+SUB
+ENDF
+FDEF
+PUSHB_2
+ 93
+ 14
+CINDEX
+ADD
+CALL
+PUSHB_1
+ 12
+MINDEX
+SRP1
+PUSHB_1
+ 5
+MINDEX
+SRP2
+PUSHB_1
+ 10
+CINDEX
+IP
+PUSHB_1
+ 7
+CINDEX
+IP
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 9
+CINDEX
+PUSHB_1
+ 124
+CALL
+PUSHB_1
+ 0
+LT
+PUSHB_1
+ 11
+CINDEX
+PUSHB_1
+ 8
+CINDEX
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 124
+CALL
+PUSHB_1
+ 0
+LT
+EQ
+IF
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 11
+CINDEX
+SDPVTL[orthog]
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+SFVFS
+PUSHB_1
+ 10
+CINDEX
+SRP0
+PUSHB_1
+ 9
+CINDEX
+MDRP[black]
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 2
+CINDEX
+SFVFS
+PUSHB_1
+ 7
+CINDEX
+SRP0
+PUSHB_1
+ 6
+CINDEX
+MDRP[black]
+ELSE
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 11
+CINDEX
+PUSHB_1
+ 11
+CINDEX
+PUSHW_1
+ -1
+PUSHB_1
+ 118
+CALL
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+SFVFS
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 119
+CALL
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 8
+CINDEX
+PUSHB_1
+ 8
+CINDEX
+PUSHW_1
+ -1
+PUSHB_1
+ 118
+CALL
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 2
+CINDEX
+SFVFS
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 119
+CALL
+EIF
+PUSHB_1
+ 10
+CINDEX
+GC[cur]
+PUSHB_1
+ 10
+CINDEX
+GC[cur]
+ADD
+PUSHB_1
+ 8
+CINDEX
+GC[cur]
+PUSHB_1
+ 8
+CINDEX
+GC[cur]
+ADD
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+SFVFS
+PUSHB_1
+ 12
+CINDEX
+PUSHB_1
+ 12
+CINDEX
+PUSHB_1
+ 12
+MINDEX
+DUP
+PUSHB_1
+ 0
+LT
+IF
+POP
+PUSHB_1
+ 106
+ELSE
+PUSHB_1
+ 108
+EIF
+CALL
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+SFVFS
+PUSHB_1
+ 9
+CINDEX
+PUSHB_1
+ 9
+CINDEX
+PUSHB_1
+ 9
+MINDEX
+DUP
+PUSHB_1
+ 0
+LT
+IF
+POP
+PUSHB_1
+ 106
+ELSE
+PUSHB_1
+ 108
+EIF
+CALL
+SWAP
+PUSHB_1
+ 10
+CINDEX
+GC[cur]
+PUSHB_1
+ 10
+CINDEX
+GC[cur]
+ADD
+SUB
+PUSHB_1
+ 32
+MUL
+SWAP
+PUSHB_1
+ 8
+CINDEX
+GC[cur]
+PUSHB_1
+ 8
+CINDEX
+GC[cur]
+ADD
+SUB
+PUSHB_1
+ 32
+MUL
+PUSHB_2
+ 1
+ 12
+CINDEX
+EQ
+IF
+SFVTCA[y-axis]
+ELSE
+SFVTCA[x-axis]
+EIF
+PUSHB_1
+ 10
+MINDEX
+DUP
+SRP0
+PUSHB_1
+ 3
+CINDEX
+MSIRP[no-rp0]
+PUSHB_1
+ 6
+MINDEX
+PUSHB_1
+ 6
+MINDEX
+SFVFS
+PUSHB_1
+ 7
+MINDEX
+DUP
+SRP0
+ROLL
+MSIRP[no-rp0]
+PUSHB_2
+ 1
+ 7
+MINDEX
+EQ
+IF
+SFVTCA[y-axis]
+ELSE
+SFVTCA[x-axis]
+EIF
+PUSHB_1
+ 5
+MINDEX
+DUP
+SRP0
+PUSHB_1
+ 2
+CINDEX
+MSIRP[no-rp0]
+ROLL
+ROLL
+SFVFS
+SWAP
+DUP
+SRP0
+SWAP
+MSIRP[no-rp0]
+ENDF
+FDEF
+SWAP
+PUSHB_1
+ 1
+EQ
+IF
+PUSHW_2
+ 0
+ 16384
+ELSE
+PUSHW_1
+ 16384
+PUSHB_1
+ 0
+EIF
+ROLL
+PUSHB_1
+ 1
+EQ
+IF
+PUSHW_2
+ 0
+ 16384
+ELSE
+PUSHW_1
+ 16384
+PUSHB_1
+ 0
+EIF
+PUSHB_1
+ 125
+CALL
+ENDF
+FDEF
+ROLL
+ROLL
+SFVTL[parallel]
+GFV
+ROLL
+PUSHB_1
+ 1
+EQ
+IF
+PUSHW_2
+ 0
+ 16384
+ELSE
+PUSHW_1
+ 16384
+PUSHB_1
+ 0
+EIF
+PUSHB_1
+ 125
+CALL
+ENDF
+FDEF
+SFVTL[parallel]
+PUSHB_1
+ 1
+EQ
+IF
+PUSHW_2
+ 0
+ 16384
+ELSE
+PUSHW_1
+ 16384
+PUSHB_1
+ 0
+EIF
+GFV
+PUSHB_1
+ 125
+CALL
+ENDF
+FDEF
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 4
+MINDEX
+SFVTL[parallel]
+GFV
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 4
+MINDEX
+SFVTL[parallel]
+GFV
+PUSHB_1
+ 125
+CALL
+ENDF
+FDEF
+DUP
+SVTCA[x-axis]
+GC[cur]
+SWAP
+SVTCA[y-axis]
+GC[cur]
+PUSHB_1
+ 10
+RS
+PUSHB_1
+ 11
+RS
+ROLL
+MUL
+SWAP
+DIV
+SUB
+ENDF
+FDEF
+PUSHB_1
+ 9
+CALL
+PUSHB_1
+ 6
+CINDEX
+MDAP[no-rnd]
+PUSHB_1
+ 5
+CINDEX
+RDTG
+MDRP[rnd,black]
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+DUP
+PUSHB_1
+ 0
+LT
+IF
+POP
+PUSHB_1
+ 106
+ELSE
+PUSHB_1
+ 108
+EIF
+CALL
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+DUP
+PUSHB_1
+ 0
+LT
+IF
+POP
+PUSHB_1
+ 106
+ELSE
+PUSHB_1
+ 108
+EIF
+CALL
+RTG
+PUSHB_1
+ 8
+CINDEX
+PUSHB_1
+ 7
+CINDEX
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 10
+CINDEX
+PUSHB_1
+ 111
+CALL
+PUSHB_1
+ 6
+CINDEX
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 4
+MINDEX
+DUP
+PUSHB_1
+ 0
+LT
+IF
+POP
+PUSHB_1
+ 102
+ELSE
+PUSHB_1
+ 104
+EIF
+CALL
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 4
+MINDEX
+DUP
+PUSHB_1
+ 0
+LT
+IF
+POP
+PUSHB_1
+ 102
+ELSE
+PUSHB_1
+ 104
+EIF
+CALL
+EQ
+IF
+RDTG
+PUSHB_1
+ 4
+CINDEX
+SRP0
+PUSHB_1
+ 3
+CINDEX
+MDRP[rnd,black]
+PUSHB_1
+ 2
+CINDEX
+SRP0
+PUSHB_1
+ 1
+CINDEX
+MDRP[rnd,black]
+PUSHB_1
+ 5
+MINDEX
+POP
+PUSHB_1
+ 5
+MINDEX
+POP
+ELSE
+PUSHB_1
+ 6
+MINDEX
+PUSHB_1
+ 4
+CINDEX
+PUSHB_1
+ 3
+CINDEX
+PUSHB_1
+ 8
+MINDEX
+PUSHB_1
+ 111
+CALL
+EIF
+PUSHB_2
+ 0
+ 2
+RS
+EQ
+IF
+RDTG
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 130
+CALL
+PUSHB_1
+ 5
+CINDEX
+PUSHB_1
+ 130
+CALL
+DUP
+DUP
+ROUND[Black]
+SUB
+PUSHB_1
+ 4
+RS
+SVTCA[x-axis]
+SWAP
+SUB
+PUSHB_1
+ 96
+ADD
+DUP
+ROUND[Black]
+SUB
+PUSHB_1
+ 32
+SUB
+DUP
+PUSHB_1
+ 8
+MINDEX
+PUSHB_1
+ 8
+MINDEX
+ROLL
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+ROLL
+ROLL
+SUB
+DUP
+ROUND[Black]
+SUB
+SUB
+PUSHB_1
+ 2
+SLOOP
+SHPIX
+ELSE
+POP
+POP
+POP
+POP
+EIF
+RTG
+ENDF
+FDEF
+MPPEM
+GT
+PUSHB_2
+ 1
+ 2
+RS
+GTEQ
+AND
+IF
+SWAP
+SRP0
+DUP
+SVTCA[x-axis]
+ALIGNRP
+SVTCA[y-axis]
+ALIGNRP
+ELSE
+POP
+POP
+EIF
+ENDF
+FDEF
+SWAP
+PUSHB_1
+ 2
+CINDEX
+PUSHB_1
+ 2
+CINDEX
+GTEQ
+IF
+DUP
+PUSHB_1
+ 4
+CINDEX
+IF
+ALIGNRP
+ELSE
+IP
+EIF
+PUSHB_1
+ 1
+ADD
+PUSHW_1
+ -23
+JMPR
+EIF
+POP
+POP
+POP
+ENDF
+FDEF
+PUSHB_1
+ 2
+CINDEX
+GC[orig]
+PUSHB_1
+ 2
+CINDEX
+GC[orig]
+EQ
+ROLL
+DUP
+DUP
+SRP0
+SRP1
+PUSHB_1
+ 1
+ADD
+ROLL
+DUP
+SRP2
+PUSHB_1
+ 1
+SUB
+PUSHB_1
+ 133
+CALL
+ENDF
+FDEF
+PUSHB_1
+ 4
+CINDEX
+GC[orig]
+PUSHB_1
+ 2
+CINDEX
+GC[orig]
+EQ
+SWAP
+DUP
+SRP2
+PUSHB_1
+ 1
+SUB
+SWAP
+DUP
+PUSHB_1
+ 6
+MINDEX
+DUP
+DUP
+SRP0
+SRP1
+PUSHB_1
+ 1
+ADD
+PUSHB_1
+ 6
+MINDEX
+PUSHB_1
+ 133
+CALL
+ROLL
+ROLL
+PUSHB_1
+ 133
+CALL
+ENDF
+FDEF
+PUSHB_1
+ 2
+RS
+EQ
+IF
+GPV
+SPVTCA[y-axis]
+ROLL
+MPPEM
+GTEQ
+PUSHB_1
+ 4
+MINDEX
+MPPEM
+LTEQ
+AND
+IF
+SPVFS
+SHPIX
+ELSE
+SPVFS
+POP
+POP
+EIF
+ELSE
+POP
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+PUSHB_1
+ 152
+CALL
+IF
+GPV
+SPVTCA[y-axis]
+ROLL
+MPPEM
+GTEQ
+PUSHB_1
+ 4
+MINDEX
+MPPEM
+LTEQ
+AND
+IF
+SPVFS
+SHPIX
+ELSE
+SPVFS
+POP
+POP
+EIF
+ELSE
+POP
+POP
+POP
+POP
+EIF
+ENDF
+FDEF
+DUP
+PUSHB_1
+ 2
+RS
+EQ
+PUSHB_1
+ 1
+SWAP
+PUSHW_1
+ 104
+SWAP
+JROT
+POP
+PUSHB_2
+ 0
+ 2
+RS
+PUSHW_1
+ 94
+SWAP
+JROF
+POP
+PUSHB_1
+ 2
+RS
+SWAP
+PUSHB_1
+ 32
+DUP
+NOT
+IF
+POP
+POP
+POP
+PUSHB_1
+ 0
+PUSHW_1
+ 77
+JMPR
+EIF
+ROLL
+ROLL
+DUP
+ROLL
+DUP
+ROLL
+SWAP
+PUSHW_1
+ 4096
+MUL
+ODD
+IF
+PUSHW_1
+ 4096
+MUL
+ODD
+IF
+POP
+POP
+POP
+PUSHB_1
+ 1
+PUSHW_1
+ 48
+JMPR
+EIF
+ELSE
+POP
+EIF
+PUSHB_1
+ 128
+DIV
+DUP
+NOT
+IF
+POP
+POP
+POP
+PUSHB_1
+ 0
+PUSHW_1
+ 29
+JMPR
+EIF
+SWAP
+PUSHB_1
+ 128
+DIV
+DUP
+NOT
+IF
+POP
+POP
+POP
+PUSHB_1
+ 0
+PUSHW_1
+ 12
+JMPR
+EIF
+ROLL
+PUSHB_1
+ 1
+SUB
+PUSHW_1
+ -85
+JMPR
+SWAP
+POP
+ENDF
+FDEF
+DUP
+PUSHB_1
+ 2
+RS
+EQ
+PUSHB_1
+ 1
+SWAP
+PUSHW_1
+ 129
+SWAP
+JROT
+POP
+PUSHB_2
+ 0
+ 2
+RS
+PUSHW_1
+ 119
+SWAP
+JROF
+POP
+PUSHB_2
+ 0
+ 2
+RS
+ROLL
+PUSHB_1
+ 32
+DUP
+NOT
+IF
+POP
+POP
+POP
+PUSHW_1
+ 103
+JMPR
+EIF
+ROLL
+ROLL
+DUP
+ROLL
+DUP
+ROLL
+SWAP
+PUSHW_1
+ 4096
+MUL
+ODD
+IF
+PUSHW_1
+ 4096
+MUL
+ODD
+IF
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 1
+OR
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 4
+MINDEX
+ELSE
+POP
+POP
+POP
+POP
+PUSHW_1
+ 56
+PUSHB_1
+ 0
+SWAP
+JMPR
+EIF
+ELSE
+POP
+EIF
+PUSHB_1
+ 4
+MINDEX
+SWAP
+PUSHB_1
+ 128
+DIV
+DUP
+NOT
+IF
+ROLL
+NOT
+ROLL
+AND
+SWAP
+POP
+SWAP
+POP
+PUSHW_1
+ 30
+JMPR
+EIF
+ROLL
+PUSHB_1
+ 128
+DIV
+DUP
+NOT
+IF
+POP
+POP
+SWAP
+POP
+PUSHW_1
+ 14
+JMPR
+EIF
+PUSHB_1
+ 4
+MINDEX
+PUSHB_1
+ 1
+SUB
+PUSHW_1
+ -109
+JMPR
+SWAP
+POP
+ENDF
+EndTTInstrs
+ShortTable: cvt  126
+  1556
+  11
+  1462
+  22
+  1462
+  22
+  1109
+  20
+  0
+  -22
+  0
+  -20
+  0
+  -22
+  -490
+  -2
+  1462
+  21
+  0
+  -21
+  0
+  168
+  170
+  150
+  150
+  166
+  130
+  130
+  171
+  150
+  113
+  159
+  143
+  169
+  166
+  200
+  109
+  138
+  154
+  107
+  142
+  155
+  122
+  164
+  141
+  314
+  132
+  154
+  162
+  138
+  238
+  133
+  120
+  328
+  133
+  122
+  154
+  158
+  170
+  179
+  150
+  113
+  133
+  144
+  153
+  159
+  164
+  169
+  176
+  155
+  166
+  172
+  200
+  109
+  122
+  130
+  138
+  154
+  107
+  130
+  138
+  146
+  155
+  160
+  166
+  122
+  163
+  171
+  175
+  131
+  140
+  152
+  314
+  113
+  128
+  135
+  143
+  155
+  165
+  125
+  134
+  139
+  149
+  155
+  165
+  174
+  238
+  120
+  126
+  136
+  147
+  328
+  121
+  128
+  134
+  139
+  148
+  154
+  167
+  1730
+  890
+  1290
+  20
+  -200
+  670
+  935
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  1140
+  145
+  22
+  95
+  5
+  2
+  16
+  47
+  154
+  0
+  702
+  3971
+  3
+  1
+EndShort
+LangName: 1033 "" "" "" "" "" "Version 3.003" "" "Open Sans is a trademark of Google and may be registered in certain jurisdictions." "Monotype Imaging Inc." "Monotype Design Team" "Designed by Monotype design team." "http://www.google.com/get/noto/" "http://www.monotype.com/studio" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+GaspTable: 3 8 10 13 7 65535 15 1
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 38 38 13
+BeginPrivate: 0
+EndPrivate
+AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 0 subtable" "Anchor-2" "'mark' Mark Positioning lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning lookup 0 subtable" "Anchor-4" "'mark' Mark Positioning lookup 0 subtable" "Anchor-5" "'mark' Mark Positioning lookup 1 subtable" "Anchor-6" "'mark' Mark Positioning lookup 1 subtable" "Anchor-7" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-8" "'mkmk' Mark to Mark lookup 3 subtable"
+EndSplineFont

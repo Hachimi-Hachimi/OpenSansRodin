@@ -1,0 +1,24 @@
+StartChar: uni301E
+Encoding: 12318 12318 1828
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+100 1411 m 1,0,-1
+ 176 1249 l 1,1,-1
+ 696 1516 l 1,2,-1
+ 567 1765 l 1,3,-1
+ 100 1411 l 1,0,-1
+100 983 m 1,4,-1
+ 176 821 l 1,5,-1
+ 696 1087 l 1,6,-1
+ 567 1337 l 1,7,-1
+ 100 983 l 1,4,-1
+EndSplineSet
+Validated: 9
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni301E.vert
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 1" dx=0 dy=0 dh=-1024 dv=0
+Position2: "NotoSansJP-Black-'halt' Alternative Half Widths lookup 4 per glyph data 2" dx=0 dy=0 dh=-1024 dv=0
+EndChar

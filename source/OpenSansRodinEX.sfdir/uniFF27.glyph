@@ -1,0 +1,47 @@
+StartChar: uniFF27
+Encoding: 65319 65319 15964
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1151 -25 m 0,0,1
+ 915 -25 915 -25 728 63.5 c 128,-1,2
+ 541 152 541 152 431.5 325 c 128,-1,3
+ 322 498 322 498 322 754 c 0,4,5
+ 322 944 322 944 385.5 1092.5 c 128,-1,6
+ 449 1241 449 1241 560.5 1344.5 c 128,-1,7
+ 672 1448 672 1448 819.5 1502 c 128,-1,8
+ 967 1556 967 1556 1133 1556 c 0,9,10
+ 1262 1556 1262 1556 1364 1527.5 c 128,-1,11
+ 1466 1499 1466 1499 1545 1453 c 128,-1,12
+ 1624 1407 1624 1407 1683 1354 c 1,13,-1
+ 1479 1120 l 1,14,15
+ 1413 1173 1413 1173 1336.5 1208 c 128,-1,16
+ 1260 1243 1260 1243 1145 1243 c 0,17,18
+ 1024 1243 1024 1243 921.5 1185.5 c 128,-1,19
+ 819 1128 819 1128 757.5 1021.5 c 128,-1,20
+ 696 915 696 915 696 766 c 0,21,22
+ 696 614 696 614 754.5 507.5 c 128,-1,23
+ 813 401 813 401 923.5 346 c 128,-1,24
+ 1034 291 1034 291 1192 291 c 0,25,26
+ 1239 291 1239 291 1293.5 302 c 128,-1,27
+ 1348 313 1348 313 1380 332 c 1,28,-1
+ 1380 571 l 1,29,-1
+ 1085 571 l 1,30,-1
+ 1085 870 l 1,31,-1
+ 1704 870 l 1,32,-1
+ 1704 162 l 1,33,34
+ 1614 86 1614 86 1481 30.5 c 128,-1,35
+ 1348 -25 1348 -25 1151 -25 c 0,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" G
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" G.hwid
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" G.hwid G
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 11 per glyph data 4" dx=0 dy=4 dh=0 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 2" dx=10 dy=0 dh=-6 dv=0
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 7 per glyph data 1" dx=0 dy=88 dh=0 dv=-184
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-158 dy=0 dh=-301 dv=0
+EndChar

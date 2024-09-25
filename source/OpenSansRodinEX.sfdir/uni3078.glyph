@@ -1,0 +1,48 @@
+StartChar: uni3078
+Encoding: 12408 12408 1917
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+55 637 m 1,0,1
+ 106 678 106 678 149.5 719 c 128,-1,2
+ 193 760 193 760 242 811 c 0,3,4
+ 275 846 275 846 317.5 897 c 128,-1,5
+ 360 948 360 948 409.5 1008.5 c 128,-1,6
+ 459 1069 459 1069 510 1131.5 c 128,-1,7
+ 561 1194 561 1194 610 1249 c 0,8,9
+ 727 1382 727 1382 839.5 1390.5 c 128,-1,10
+ 952 1399 952 1399 1071 1286 c 0,11,12
+ 1147 1216 1147 1216 1223.5 1127 c 128,-1,13
+ 1300 1038 1300 1038 1372 952 c 128,-1,14
+ 1444 866 1444 866 1501 803 c 0,15,16
+ 1552 748 1552 748 1607.5 689.5 c 128,-1,17
+ 1663 631 1663 631 1724.5 568.5 c 128,-1,18
+ 1786 506 1786 506 1853.5 441.5 c 128,-1,19
+ 1921 377 1921 377 1997 309 c 1,20,-1
+ 1739 10 l 1,21,22
+ 1669 78 1669 78 1592.5 160 c 128,-1,23
+ 1516 242 1516 242 1442 327 c 128,-1,24
+ 1368 412 1368 412 1305 485 c 0,25,26
+ 1244 561 1244 561 1176 645 c 128,-1,27
+ 1108 729 1108 729 1045.5 807 c 128,-1,28
+ 983 885 983 885 934 940 c 0,29,30
+ 903 975 903 975 877.5 984 c 128,-1,31
+ 852 993 852 993 828.5 981 c 128,-1,32
+ 805 969 805 969 778 934 c 256,33,34
+ 751 899 751 899 714.5 849 c 128,-1,35
+ 678 799 678 799 638 742.5 c 128,-1,36
+ 598 686 598 686 561 633 c 128,-1,37
+ 524 580 524 580 494 539 c 0,38,39
+ 457 484 457 484 422 427.5 c 128,-1,40
+ 387 371 387 371 358 326 c 1,41,-1
+ 55 637 l 1,0,1
+EndSplineSet
+Validated: 33
+Kerns2: 15938 -61 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1902 -102 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1901 -102 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1900 -143 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1899 -143 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0"
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni3078.vert
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 0" dx=-8 dy=0 dh=-82 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 10" dx=8 dy=0 dh=31 dv=0
+EndChar

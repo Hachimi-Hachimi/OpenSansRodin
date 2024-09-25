@@ -1,0 +1,19 @@
+StartChar: uniFF0D
+Encoding: 65293 65293 15939
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1741 903 m 1,0,-1
+ 1741 657 l 1,1,-1
+ 307 657 l 1,2,-1
+ 307 903 l 1,3,-1
+ 1741 903 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" hyphen
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" hyphen.hwid
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" hyphen.hwid hyphen
+EndChar

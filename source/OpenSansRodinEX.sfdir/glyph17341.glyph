@@ -1,0 +1,40 @@
+StartChar: glyph17341
+Encoding: 67554 -1 17995
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1030 1118 m 0,0,1
+ 1126 1118 1126 1118 1203 1072 c 128,-1,2
+ 1280 1026 1280 1026 1326 948 c 128,-1,3
+ 1372 870 1372 870 1372 776 c 256,4,5
+ 1372 682 1372 682 1326 604 c 128,-1,6
+ 1280 526 1280 526 1203 480 c 128,-1,7
+ 1126 434 1126 434 1030 434 c 0,8,9
+ 936 434 936 434 858 480 c 128,-1,10
+ 780 526 780 526 734 604 c 128,-1,11
+ 688 682 688 682 688 776 c 256,12,13
+ 688 870 688 870 734 948 c 128,-1,14
+ 780 1026 780 1026 858 1072 c 128,-1,15
+ 936 1118 936 1118 1030 1118 c 0,0,1
+1030 606 m 0,16,17
+ 1102 606 1102 606 1151 656.5 c 128,-1,18
+ 1200 707 1200 707 1200 776 c 0,19,20
+ 1200 823 1200 823 1177.5 862 c 128,-1,21
+ 1155 901 1155 901 1116 923.5 c 128,-1,22
+ 1077 946 1077 946 1030 946 c 0,23,24
+ 985 946 985 946 946 923.5 c 128,-1,25
+ 907 901 907 901 883.5 862 c 128,-1,26
+ 860 823 860 823 860 776 c 256,27,28
+ 860 729 860 729 883.5 690 c 128,-1,29
+ 907 651 907 651 946 628.5 c 128,-1,30
+ 985 606 985 606 1030 606 c 0,16,17
+EndSplineSet
+Validated: 1
+Position2: "NotoSansJP-Black-'vhal' Alternate Vertical Half Metrics lookup 8 per glyph data 1" dx=0 dy=512 dh=0 dv=-1024
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 7 per glyph data 1" dx=0 dy=512 dh=0 dv=-1024
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 0" dx=-512 dy=0 dh=-1024 dv=0
+Position2: "NotoSansJP-Black-'halt' Alternative Half Widths lookup 4 per glyph data 1" dx=-512 dy=0 dh=-1024 dv=0
+EndChar

@@ -1,0 +1,27 @@
+StartChar: gcircumflex
+Encoding: 285 285 223
+Width: 1258
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_7
+ 3
+ 82
+ 19
+ 1
+ 1
+ 123
+ 86
+SVTCA[y-axis]
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 74 103 N 1 0 0 1 0 0 3
+Refer: 330 710 N 1 0 0 1 47.25 0 2
+Validated: 1
+Substitution2: "'ss02' Style Set 2 lookup 36 subtable" gcircumflex.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" gcircumflex.salt
+EndChar

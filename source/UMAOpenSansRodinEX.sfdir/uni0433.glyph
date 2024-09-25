@@ -1,0 +1,37 @@
+StartChar: uni0433
+Encoding: 1075 1075 460
+Width: 1053
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_7
+ 2
+ 5
+ 6
+ 114
+ 4
+ 10
+ 114
+SVTCA[y-axis]
+CALL
+CALL
+SHP[rp2]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 527.1 0 basechar 0
+AnchorPoint: "Anchor-0" 582.75 1182.3 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1002.75 1182.29980469 m 1,0,-1
+ 1002.75 909.299804688 l 1,1,-1
+ 520.799804688 909.299804688 l 1,2,-1
+ 520.799804688 0 l 1,3,-1
+ 155.400390625 0 l 1,4,-1
+ 155.400390625 1182.29980469 l 1,5,-1
+ 1002.75 1182.29980469 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

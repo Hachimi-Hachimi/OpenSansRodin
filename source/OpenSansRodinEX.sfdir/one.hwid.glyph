@@ -1,0 +1,27 @@
+StartChar: one.hwid
+Encoding: 67588 -1 18029
+Width: 1024
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+78 0 m 1,0,-1
+ 78 295 l 1,1,-1
+ 360 295 l 1,2,-1
+ 360 1130 l 1,3,-1
+ 115 1130 l 1,4,-1
+ 115 1356 l 1,5,6
+ 230 1379 230 1379 307.5 1411.5 c 128,-1,7
+ 385 1444 385 1444 459 1495 c 1,8,-1
+ 725 1495 l 1,9,-1
+ 725 295 l 1,10,-1
+ 963 295 l 1,11,-1
+ 963 0 l 1,12,-1
+ 78 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" one
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uniFF11
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" uniFF11 one
+EndChar

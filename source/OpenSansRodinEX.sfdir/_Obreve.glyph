@@ -1,0 +1,26 @@
+StartChar: Obreve
+Encoding: 334 334 271
+Width: 1712
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 37
+ 14
+ 3
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 856.8 0 basechar 0
+AnchorPoint: "Anchor-0" 856.8 2029.65 basechar 0
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 333 728 N 1 0 0 1 358.05 353.85 2
+Validated: 1
+EndChar

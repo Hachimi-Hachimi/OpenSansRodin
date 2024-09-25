@@ -1,0 +1,17 @@
+StartChar: Eogonek
+Encoding: 280 280 218
+Width: 1192
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 643.65 -516.6 basechar 0
+AnchorPoint: "Anchor-0" 634.2 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 336 731 N 1 0 0 1 544.95 0 2
+Validated: 5
+Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" Eogonek.loclNAV
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 5 subtable" E uni0328
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Eogonek.loclNAV
+EndChar

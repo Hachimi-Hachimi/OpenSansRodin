@@ -1,0 +1,20 @@
+StartChar: uni3127.hist
+Encoding: 65666 -1 2085
+Width: 2048
+GlyphClass: 1
+Flags: W
+AnchorPoint: "Anchor-2" 1966 737 basechar 0
+AnchorPoint: "Anchor-1" 1311 1229 basechar 0
+AnchorPoint: "Anchor-0" 1966 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+866 1671 m 1,0,-1
+ 1194 1671 l 1,1,-1
+ 1194 -117 l 1,2,-1
+ 866 -117 l 1,3,-1
+ 866 1671 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni3127
+EndChar

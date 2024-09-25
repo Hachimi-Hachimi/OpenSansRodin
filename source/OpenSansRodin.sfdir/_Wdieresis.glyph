@@ -1,0 +1,28 @@
+StartChar: Wdieresis
+Encoding: 7812 7812 509
+Width: 2156
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 63
+ 51
+ 16
+ 2
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 1078.35 0 basechar 0
+AnchorPoint: "Anchor-0" 1079.4 1987.65 basechar 0
+LayerCount: 2
+Fore
+Refer: 58 87 N 1 0 0 1 0 0 3
+Refer: 106 168 N 1 0 0 1 420 353.85 2
+Validated: 1
+EndChar

@@ -1,0 +1,49 @@
+StartChar: quotedblright.aalt
+Encoding: 67673 -1 18115
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+467 1214 m 1,0,1
+ 533 1245 533 1245 574.5 1289 c 128,-1,2
+ 616 1333 616 1333 636.5 1375 c 128,-1,3
+ 657 1417 657 1417 657 1442 c 1,4,5
+ 653 1440 653 1440 643 1438 c 128,-1,6
+ 633 1436 633 1436 621 1436 c 0,7,8
+ 553 1436 553 1436 511 1482 c 128,-1,9
+ 469 1528 469 1528 469 1595 c 256,10,11
+ 469 1663 469 1663 515 1710 c 128,-1,12
+ 561 1757 561 1757 641 1757 c 0,13,14
+ 725 1757 725 1757 778 1688.5 c 128,-1,15
+ 831 1620 831 1620 831 1522 c 0,16,17
+ 831 1416 831 1416 790.5 1331.5 c 128,-1,18
+ 750 1247 750 1247 682 1186.5 c 128,-1,19
+ 614 1126 614 1126 535 1090 c 1,20,-1
+ 467 1214 l 1,0,1
+37 1214 m 1,21,22
+ 103 1245 103 1245 144.5 1289 c 128,-1,23
+ 186 1333 186 1333 206.5 1375 c 128,-1,24
+ 227 1417 227 1417 227 1442 c 1,25,26
+ 223 1440 223 1440 213 1438 c 128,-1,27
+ 203 1436 203 1436 190 1436 c 0,28,29
+ 122 1436 122 1436 80.5 1482 c 128,-1,30
+ 39 1528 39 1528 39 1595 c 256,31,32
+ 39 1663 39 1663 85 1710 c 128,-1,33
+ 131 1757 131 1757 211 1757 c 0,34,35
+ 295 1757 295 1757 348 1688.5 c 128,-1,36
+ 401 1620 401 1620 401 1522 c 0,37,38
+ 401 1416 401 1416 360 1331.5 c 128,-1,39
+ 319 1247 319 1247 251.5 1186.5 c 128,-1,40
+ 184 1126 184 1126 104 1090 c 1,41,-1
+ 37 1214 l 1,21,22
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vert' Vertical Alternates lookup 18 subtable" uni301E.vert
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" quotedblright.aalt.aalt
+Substitution2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 0 subtable" quotedblright.aalt.aalt
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 8" dx=20 dy=0 dh=0 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 0" dx=-27 dy=0 dh=-1024 dv=0
+Position2: "NotoSansJP-Black-'halt' Alternative Half Widths lookup 4 per glyph data 2" dx=0 dy=0 dh=-1024 dv=0
+EndChar

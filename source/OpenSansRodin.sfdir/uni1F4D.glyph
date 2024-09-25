@@ -1,0 +1,31 @@
+StartChar: uni1F4D
+Encoding: 8013 8013 885
+Width: 2209
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 3
+ 2
+ 50
+ 14
+ 2
+ 0
+PUSHW_1
+ -4
+PUSHB_1
+ 86
+SVTCA[y-axis]
+CALL
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 1353.45 0 basechar 0
+AnchorPoint: "Anchor-0" 1353.45 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 495.6 0 2
+Refer: 886 8158 N 1 0 0 1 -285.6 -111.3 2
+Validated: 1
+EndChar

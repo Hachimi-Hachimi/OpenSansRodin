@@ -1,0 +1,26 @@
+StartChar: ygrave
+Encoding: 7923 7923 512
+Width: 1267
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 36
+ 0
+ 6
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 278.25 -516.6 basechar 0
+AnchorPoint: "Anchor-0" 635.25 1647.45 basechar 0
+LayerCount: 2
+Fore
+Refer: 92 121 N 1 0 0 1 0 0 3
+Refer: 67 96 N 1 0 0 1 116.55 0 2
+Validated: 1
+EndChar

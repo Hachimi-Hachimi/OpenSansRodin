@@ -1,0 +1,20 @@
+StartChar: uni2E3A.aalt
+Encoding: 67551 -1 17992
+Width: 4096
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+3942 829 m 1,0,-1
+ 3942 727 l 1,1,-1
+ 154 727 l 1,2,-1
+ 154 829 l 1,3,-1
+ 3942 829 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni2E3A.aalt.vert
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" uni2E3A
+Ligature2: "NotoSansJP-Black-'ccmp' Glyph Composition/Decomposition lookup 2 subtable" uni2015 uni2015
+Substitution2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 0 subtable" uni2E3A
+EndChar

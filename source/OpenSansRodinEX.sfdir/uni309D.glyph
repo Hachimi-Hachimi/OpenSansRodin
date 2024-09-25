@@ -1,0 +1,35 @@
+StartChar: uni309D
+Encoding: 12445 12445 1952
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1544 297 m 1,0,1
+ 1481 277 1481 277 1392 243 c 128,-1,2
+ 1303 209 1303 209 1204.5 170 c 128,-1,3
+ 1106 131 1106 131 1018 96 c 128,-1,4
+ 930 61 930 61 870 37 c 1,5,-1
+ 715 344 l 1,6,7
+ 762 360 762 360 825.5 385 c 128,-1,8
+ 889 410 889 410 956.5 436.5 c 128,-1,9
+ 1024 463 1024 463 1085.5 487.5 c 128,-1,10
+ 1147 512 1147 512 1192 528 c 1,11,12
+ 1155 583 1155 583 1082.5 669.5 c 128,-1,13
+ 1010 756 1010 756 918.5 852 c 128,-1,14
+ 827 948 827 948 737 1037 c 128,-1,15
+ 647 1126 647 1126 578 1186 c 1,16,-1
+ 852 1389 l 1,17,18
+ 926 1321 926 1321 1015 1233 c 128,-1,19
+ 1104 1145 1104 1145 1195 1049.5 c 128,-1,20
+ 1286 954 1286 954 1370 861 c 128,-1,21
+ 1454 768 1454 768 1520.5 688 c 128,-1,22
+ 1587 608 1587 608 1626 553 c 1,23,-1
+ 1544 297 l 1,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni309D.vert
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 0" dx=-20 dy=0 dh=-25 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-266 dy=0 dh=-414 dv=0
+EndChar

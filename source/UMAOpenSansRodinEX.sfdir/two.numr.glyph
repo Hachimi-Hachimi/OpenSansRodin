@@ -1,0 +1,14 @@
+StartChar: two.numr
+Encoding: 65632 -1 1084
+Width: 836
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 116 178 N 1 0 0 1 0 -279.3 3
+Validated: 1
+Substitution2: "Single Substitution lookup 27 subtable" two.dnom
+Substitution2: "Single Substitution lookup 26 subtable" two.dnom
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" two.dnom
+EndChar

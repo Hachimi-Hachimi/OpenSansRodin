@@ -1,0 +1,26 @@
+StartChar: epsilontonos
+Encoding: 941 941 377
+Width: 1192
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 45
+ 31
+ 7
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 596.4 0 basechar 0
+AnchorPoint: "Anchor-0" 667.8 1710.45 basechar 0
+LayerCount: 2
+Fore
+Refer: 385 949 N 1 0 0 1 0 0 3
+Refer: 339 900 N 1 0 0 1 72.45 0 2
+Validated: 1
+EndChar

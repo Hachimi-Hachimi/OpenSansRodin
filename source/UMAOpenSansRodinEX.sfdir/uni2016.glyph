@@ -1,0 +1,21 @@
+StartChar: uni2016
+Encoding: 8214 8214 1166
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+901 1802 m 1,0,-1
+ 901 -246 l 1,1,-1
+ 809 -246 l 1,2,-1
+ 809 1802 l 1,3,-1
+ 901 1802 l 1,0,-1
+1239 1802 m 1,4,-1
+ 1239 -246 l 1,5,-1
+ 1147 -246 l 1,6,-1
+ 1147 1802 l 1,7,-1
+ 1239 1802 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar

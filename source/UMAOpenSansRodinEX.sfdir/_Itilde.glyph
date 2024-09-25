@@ -1,0 +1,27 @@
+StartChar: Itilde
+Encoding: 296 296 234
+Width: 730
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 4
+ 1
+ 1
+ 1
+ 149
+ 86
+SVTCA[y-axis]
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 337 732 N 1 0 0 1 -158.55 353.85 2
+Validated: 1
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" Itilde.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Itilde.salt
+EndChar

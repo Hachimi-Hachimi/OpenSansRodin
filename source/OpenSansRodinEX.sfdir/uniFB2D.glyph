@@ -1,0 +1,25 @@
+StartChar: uniFB2D
+Encoding: 64301 64301 999
+Width: 1691
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_4
+ 52
+ 1
+ 121
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 994 1513 N 1 0 0 1 0 0 3
+Refer: 1057 1468 N 1 0 0 1 948.15 -204.75 2
+Refer: 1060 1474 N 1 0 0 1 259.35 1.05 2
+Validated: 1
+EndChar

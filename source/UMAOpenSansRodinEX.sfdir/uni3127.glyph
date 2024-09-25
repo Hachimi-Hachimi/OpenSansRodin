@@ -1,0 +1,21 @@
+StartChar: uni3127
+Encoding: 12583 12583 18318
+Width: 2048
+GlyphClass: 1
+Flags: W
+AnchorPoint: "Anchor-2" 1966 737 basechar 0
+AnchorPoint: "Anchor-1" 1311 1229 basechar 0
+AnchorPoint: "Anchor-0" 1966 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+229 936 m 1,0,-1
+ 1817 936 l 1,1,-1
+ 1817 608 l 1,2,-1
+ 229 608 l 1,3,-1
+ 229 936 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'hist' Historical Forms lookup 3 subtable" uni3127.hist
+Position2: "NotoSansJP-Black-'vert' Vertical Alternates lookup 2 per glyph data 2" dx=0 dy=123 dh=0 dv=-410
+EndChar

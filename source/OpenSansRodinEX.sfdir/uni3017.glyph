@@ -1,0 +1,38 @@
+StartChar: uni3017
+Encoding: 12311 12311 1821
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+51 -160 m 1,0,1
+ 213 -84 213 -84 334 48 c 128,-1,2
+ 455 180 455 180 522.5 363.5 c 128,-1,3
+ 590 547 590 547 590 778 c 256,4,5
+ 590 1009 590 1009 522.5 1192.5 c 128,-1,6
+ 455 1376 455 1376 334 1508 c 128,-1,7
+ 213 1640 213 1640 51 1716 c 1,8,-1
+ 51 1751 l 1,9,-1
+ 754 1751 l 1,10,-1
+ 754 -195 l 1,11,-1
+ 51 -195 l 1,12,-1
+ 51 -160 l 1,0,1
+700 -141 m 1,13,-1
+ 700 1698 l 1,14,-1
+ 190 1698 l 1,15,16
+ 262 1653 262 1653 341 1577 c 128,-1,17
+ 420 1501 420 1501 488.5 1390.5 c 128,-1,18
+ 557 1280 557 1280 600 1128.5 c 128,-1,19
+ 643 977 643 977 643 778 c 256,20,21
+ 643 579 643 579 600 427.5 c 128,-1,22
+ 557 276 557 276 488.5 165.5 c 128,-1,23
+ 420 55 420 55 341 -20.5 c 128,-1,24
+ 262 -96 262 -96 190 -141 c 1,25,-1
+ 700 -141 l 1,13,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uniFE18
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 1" dx=0 dy=0 dh=-1024 dv=0
+Position2: "NotoSansJP-Black-'halt' Alternative Half Widths lookup 4 per glyph data 2" dx=0 dy=0 dh=-1024 dv=0
+EndChar

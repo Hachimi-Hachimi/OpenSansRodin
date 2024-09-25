@@ -1,0 +1,16 @@
+StartChar: Chi
+Encoding: 935 935 371
+Width: 1495
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 748.65 0 basechar 0
+AnchorPoint: "Anchor-0" 742.35 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 59 88 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "'locl' Localized Forms in Latin lookup 16 subtable" uniA7B3
+Substitution2: "'locl' Localized Forms in Latin lookup 15 subtable" uniA7B3
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uniA7B3
+EndChar

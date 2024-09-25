@@ -1,0 +1,24 @@
+StartChar: uni20AB
+Encoding: 8363 8363 866
+Width: 1411
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_4
+ 47
+ 0
+ 11
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 211 273 N 1 0 0 1 0 0 3
+Refer: 66 95 N 1 0 0 1 252 0 2
+Validated: 1
+EndChar

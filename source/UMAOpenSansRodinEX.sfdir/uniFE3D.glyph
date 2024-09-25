@@ -1,0 +1,28 @@
+StartChar: uniFE3D
+Encoding: 65085 65085 15882
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+113 170 m 1,0,-1
+ 51 375 l 1,1,-1
+ 1024 754 l 1,2,-1
+ 1997 375 l 1,3,-1
+ 1935 170 l 1,4,-1
+ 1024 528 l 1,5,-1
+ 113 170 l 1,0,-1
+113 -201 m 1,6,-1
+ 51 4 l 1,7,-1
+ 1024 383 l 1,8,-1
+ 1997 4 l 1,9,-1
+ 1935 -201 l 1,10,-1
+ 1024 158 l 1,11,-1
+ 113 -201 l 1,6,-1
+EndSplineSet
+Validated: 1
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 11 per glyph data 4" dx=0 dy=27 dh=0 dv=0
+Position2: "NotoSansJP-Black-'vhal' Alternate Vertical Half Metrics lookup 8 per glyph data 2" dx=0 dy=1024 dh=0 dv=-1024
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 7 per glyph data 1" dx=0 dy=983 dh=0 dv=-1024
+EndChar

@@ -1,0 +1,15 @@
+StartChar: Ldot
+Encoding: 319 319 256
+Width: 1233
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 663.6 0 basechar 0
+AnchorPoint: "Anchor-0" 359.1 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 47 76 N 1 0 0 1 0 0 3
+Refer: 334 729 N 1 0 0 1 670.95 -634.2 2
+Validated: 1
+Ligature2: "Ligature Substitution lookup 14 subtable" L periodcentered
+EndChar

@@ -1,0 +1,43 @@
+StartChar: uni30B3
+Encoding: 12467 12467 1974
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+303 1483 m 1,0,1
+ 364 1477 364 1477 441 1472.5 c 128,-1,2
+ 518 1468 518 1468 573 1468 c 2,3,-1
+ 1618 1468 l 2,4,5
+ 1667 1468 1667 1468 1728.5 1470.5 c 128,-1,6
+ 1790 1473 1790 1473 1812 1475 c 1,7,8
+ 1810 1438 1810 1438 1808 1378.5 c 128,-1,9
+ 1806 1319 1806 1319 1806 1268 c 2,10,-1
+ 1806 205 l 2,11,12
+ 1806 154 1806 154 1809 76 c 128,-1,13
+ 1812 -2 1812 -2 1817 -61 c 1,14,-1
+ 1456 -61 l 1,15,16
+ 1458 -2 1458 -2 1459 53.5 c 128,-1,17
+ 1460 109 1460 109 1460 166 c 2,18,-1
+ 1460 1147 l 1,19,-1
+ 573 1147 l 2,20,21
+ 503 1147 503 1147 426.5 1145 c 128,-1,22
+ 350 1143 350 1143 303 1139 c 1,23,-1
+ 303 1483 l 1,0,1
+279 381 m 1,24,25
+ 338 377 338 377 407.5 373 c 128,-1,26
+ 477 369 477 369 549 369 c 2,27,-1
+ 1661 369 l 1,28,-1
+ 1661 41 l 1,29,-1
+ 559 41 l 2,30,31
+ 502 41 502 41 418 37 c 128,-1,32
+ 334 33 334 33 279 27 c 1,33,-1
+ 279 381 l 1,24,25
+EndSplineSet
+Validated: 5
+Kerns2: 1961 -82 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0"
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni30B3.vert
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 15" dx=51 dy=0 dh=61 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-104 dy=0 dh=-102 dv=0
+EndChar

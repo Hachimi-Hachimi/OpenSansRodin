@@ -1,0 +1,45 @@
+StartChar: uni30A7
+Encoding: 12455 12455 1962
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+395 1139 m 1,0,1
+ 430 1133 430 1133 480 1129.5 c 128,-1,2
+ 530 1126 530 1126 569 1126 c 2,3,-1
+ 1503 1126 l 2,4,5
+ 1540 1126 1540 1126 1586 1129.5 c 128,-1,6
+ 1632 1133 1632 1133 1671 1139 c 1,7,-1
+ 1671 829 l 1,8,9
+ 1630 833 1630 833 1584 835.5 c 128,-1,10
+ 1538 838 1538 838 1503 838 c 2,11,-1
+ 569 838 l 2,12,13
+ 530 838 530 838 480 836 c 128,-1,14
+ 430 834 430 834 395 829 c 1,15,-1
+ 395 1139 l 1,0,1
+854 61 m 1,16,-1
+ 854 971 l 1,17,-1
+ 1182 971 l 1,18,-1
+ 1182 61 l 1,19,-1
+ 854 61 l 1,16,-1
+289 246 m 1,20,21
+ 330 240 330 240 379 235.5 c 128,-1,22
+ 428 231 428 231 469 231 c 2,23,-1
+ 1599 231 l 2,24,25
+ 1646 231 1646 231 1689.5 236.5 c 128,-1,26
+ 1733 242 1733 242 1765 246 c 1,27,-1
+ 1765 -78 l 1,28,29
+ 1732 -72 1732 -72 1680 -70 c 128,-1,30
+ 1628 -68 1628 -68 1599 -68 c 2,31,-1
+ 469 -68 l 2,32,33
+ 430 -68 430 -68 381 -70 c 128,-1,34
+ 332 -72 332 -72 289 -78 c 1,35,-1
+ 289 246 l 1,20,21
+EndSplineSet
+Validated: 5
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni30A7.vert
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 17" dx=70 dy=0 dh=133 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-186 dy=0 dh=-369 dv=0
+EndChar

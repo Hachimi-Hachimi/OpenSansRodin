@@ -1,0 +1,26 @@
+StartChar: racute
+Encoding: 341 341 278
+Width: 993
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 29
+ 15
+ 6
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 345.45 0 basechar 0
+AnchorPoint: "Anchor-0" 542.85 1647.45 basechar 0
+LayerCount: 2
+Fore
+Refer: 85 114 N 1 0 0 1 0 0 3
+Refer: 118 180 N 1 0 0 1 253.05 0 2
+Validated: 1
+EndChar

@@ -1,0 +1,28 @@
+StartChar: uhungarumlaut
+Encoding: 369 369 306
+Width: 1426
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 31
+ 44
+ 13
+ 6
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 696.15 0 basechar 0
+AnchorPoint: "Anchor-0" 714 1647.45 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 338 733 N 1 0 0 1 262.5 0 2
+Validated: 1
+EndChar

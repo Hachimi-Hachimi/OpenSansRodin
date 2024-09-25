@@ -1,0 +1,27 @@
+StartChar: uni301B.vert
+Encoding: 67687 -1 18129
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+51 1128 m 1,0,-1
+ 51 1751 l 1,1,-1
+ 236 1751 l 1,2,-1
+ 236 1622 l 1,3,-1
+ 1812 1622 l 1,4,-1
+ 1812 1751 l 1,5,-1
+ 1997 1751 l 1,6,-1
+ 1997 1128 l 1,7,-1
+ 51 1128 l 1,0,-1
+236 1313 m 1,8,-1
+ 1812 1313 l 1,9,-1
+ 1812 1438 l 1,10,-1
+ 236 1438 l 1,11,-1
+ 236 1313 l 1,8,-1
+EndSplineSet
+Validated: 1
+Position2: "NotoSansJP-Black-'vhal' Alternate Vertical Half Metrics lookup 8 per glyph data 0" dx=0 dy=0 dh=0 dv=-1024
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 7 per glyph data 0" dx=0 dy=0 dh=0 dv=-1024
+EndChar

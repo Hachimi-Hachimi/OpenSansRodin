@@ -1,0 +1,13 @@
+StartChar: Rho
+Encoding: 929 929 366
+Width: 1354
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 677.25 0 basechar 0
+AnchorPoint: "Anchor-0" 699.3 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 51 80 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

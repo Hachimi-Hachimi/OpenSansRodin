@@ -1,0 +1,21 @@
+StartChar: uni302E
+Encoding: 12334 12334 1844
+Width: 512
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+256 973 m 256,0,1
+ 336 973 336 973 393.5 915.5 c 128,-1,2
+ 451 858 451 858 451 778 c 256,3,4
+ 451 698 451 698 393.5 641 c 128,-1,5
+ 336 584 336 584 256 584 c 256,6,7
+ 176 584 176 584 118.5 641 c 128,-1,8
+ 61 698 61 698 61 778 c 256,9,10
+ 61 858 61 858 118.5 915.5 c 128,-1,11
+ 176 973 176 973 256 973 c 256,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni302E.vert
+EndChar

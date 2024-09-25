@@ -1,0 +1,26 @@
+StartChar: Scircumflex
+Encoding: 348 348 285
+Width: 1212
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 61
+ 29
+ 3
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 599.55 0 basechar 0
+AnchorPoint: "Anchor-0" 616.35 2001.3 basechar 0
+LayerCount: 2
+Fore
+Refer: 54 83 N 1 0 0 1 0 0 3
+Refer: 330 710 N 1 0 0 1 67.2 353.85 2
+Validated: 1
+EndChar

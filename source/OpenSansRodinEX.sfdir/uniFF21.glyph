@@ -1,0 +1,36 @@
+StartChar: uniFF21
+Encoding: 65313 65313 15958
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+260 0 m 1,0,-1
+ 784 1532 l 1,1,-1
+ 1255 1532 l 1,2,-1
+ 1792 0 l 1,3,-1
+ 1386 0 l 1,4,-1
+ 1286 348 l 1,5,-1
+ 750 348 l 1,6,-1
+ 651 0 l 1,7,-1
+ 260 0 l 1,0,-1
+827 631 m 1,8,-1
+ 1208 631 l 1,9,-1
+ 1169 762 l 2,10,11
+ 1136 877 1136 877 1095.5 1009 c 128,-1,12
+ 1055 1141 1055 1141 1020 1260 c 1,13,-1
+ 1012 1260 l 1,14,15
+ 979 1139 979 1139 940 1008 c 128,-1,16
+ 901 877 901 877 866 762 c 2,17,-1
+ 827 631 l 1,8,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" A
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" A.hwid
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" A.hwid A
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 11 per glyph data 5" dx=0 dy=16 dh=0 dv=6
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 10" dx=0 dy=0 dh=25 dv=0
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 7 per glyph data 1" dx=0 dy=78 dh=0 dv=-195
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-219 dy=0 dh=-459 dv=0
+EndChar

@@ -1,0 +1,27 @@
+StartChar: dcaron
+Encoding: 271 271 209
+Width: 1372
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_7
+ 2
+ 49
+ 15
+ 0
+ 0
+ 0
+ 86
+SVTCA[y-axis]
+CALL
+SHC[rp2]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 661.5 0 basechar 0
+AnchorPoint: "Anchor-0" 518.7 1633.8 basechar 0
+LayerCount: 2
+Fore
+Refer: 71 100 N 1 0 0 1 0 0 3
+Refer: 564 -1 N 1 0 0 1 955.5 0 2
+Validated: 1
+EndChar

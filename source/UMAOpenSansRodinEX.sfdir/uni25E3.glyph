@@ -1,0 +1,15 @@
+StartChar: uni25E3
+Encoding: 9699 9699 1676
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+2048 -246 m 1,0,-1
+ 0 -246 l 1,1,-1
+ 0 1802 l 1,2,-1
+ 2048 -246 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

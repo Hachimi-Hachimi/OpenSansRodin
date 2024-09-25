@@ -1,0 +1,28 @@
+StartChar: uni1ED0
+Encoding: 7888 7888 826
+Width: 1712
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_5
+ 61
+ 41
+ 14
+ 3
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 856.8 0 basechar 0
+AnchorPoint: "Anchor-0" 856.8 2101.05 basechar 0
+LayerCount: 2
+Fore
+Refer: 50 79 N 1 0 0 1 0 0 3
+Refer: 867 -1 N 1 0 0 1 1533 354.9 2
+Validated: 1
+EndChar

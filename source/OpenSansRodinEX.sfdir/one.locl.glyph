@@ -1,0 +1,27 @@
+StartChar: one.locl
+Encoding: 67562 -1 18003
+Width: 1247
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+160 0 m 1,0,-1
+ 160 295 l 1,1,-1
+ 483 295 l 1,2,-1
+ 483 1122 l 1,3,-1
+ 203 1122 l 1,4,-1
+ 203 1348 l 1,5,6
+ 326 1373 326 1373 413 1405.5 c 128,-1,7
+ 500 1438 500 1438 580 1487 c 1,8,-1
+ 848 1487 l 1,9,-1
+ 848 295 l 1,10,-1
+ 1122 295 l 1,11,-1
+ 1122 0 l 1,12,-1
+ 160 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" one.hwid
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uniFF11
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" uniFF11 one.hwid
+EndChar

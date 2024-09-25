@@ -1,0 +1,33 @@
+StartChar: dotlessi
+Encoding: 305 305 943
+Width: 678
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 2
+ 6
+ 114
+ 1
+ 10
+ 114
+SVTCA[y-axis]
+CALL
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 343.35 0 basechar 0
+AnchorPoint: "Anchor-0" 340.2 1182.3 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+521.849609375 0 m 1,0,-1
+ 156.450195312 0 l 1,1,-1
+ 156.450195312 1182.29980469 l 1,2,-1
+ 521.849609375 1182.29980469 l 1,3,-1
+ 521.849609375 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

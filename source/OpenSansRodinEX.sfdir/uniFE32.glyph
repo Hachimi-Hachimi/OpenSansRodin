@@ -1,0 +1,17 @@
+StartChar: uniFE32
+Encoding: 65074 65074 15871
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1075 522 m 1,0,-1
+ 973 522 l 1,1,-1
+ 973 1034 l 1,2,-1
+ 1075 1034 l 1,3,-1
+ 1075 522 l 1,0,-1
+EndSplineSet
+Validated: 1
+Position2: "NotoSansJP-Black-'vhal' Alternate Vertical Half Metrics lookup 8 per glyph data 1" dx=0 dy=512 dh=0 dv=-1024
+EndChar

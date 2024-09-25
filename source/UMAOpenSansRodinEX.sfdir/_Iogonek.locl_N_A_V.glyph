@@ -1,0 +1,27 @@
+StartChar: Iogonek.loclNAV
+Encoding: 65571 -1 918
+Width: 730
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 21
+ 0
+ 0
+ 0
+ 30
+ 86
+SVTCA[y-axis]
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Refer: 336 731 N 1 0 0 1 53.55 0 2
+Validated: 5
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" Iogonek_loclNAV.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Iogonek_loclNAV.salt
+EndChar

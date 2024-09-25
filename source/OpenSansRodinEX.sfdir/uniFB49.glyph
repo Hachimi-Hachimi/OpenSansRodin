@@ -1,0 +1,13 @@
+StartChar: uniFB49
+Encoding: 64329 64329 1022
+Width: 1691
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 994 1513 N 1 0 0 1 0 0 3
+Refer: 1057 1468 N 1 0 0 1 948.15 -204.75 2
+Validated: 1
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 7 subtable" uni05E9 uni05BC
+EndChar

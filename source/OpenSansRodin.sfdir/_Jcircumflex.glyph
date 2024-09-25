@@ -1,0 +1,28 @@
+StartChar: Jcircumflex
+Encoding: 308 308 245
+Width: 735
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 30
+ 12
+ 2
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 38.8496 -423.15 basechar 0
+AnchorPoint: "Anchor-0" 367.5 2001.3 basechar 0
+LayerCount: 2
+Fore
+Refer: 45 74 N 1 0 0 1 0 0 3
+Refer: 330 710 N 1 0 0 1 -181.65 353.85 2
+Validated: 1
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" Jcircumflex.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Jcircumflex.salt
+EndChar

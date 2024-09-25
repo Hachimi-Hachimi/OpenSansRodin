@@ -1,0 +1,32 @@
+StartChar: uni2423
+Encoding: 9251 9251 1322
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1792 223 m 1,0,-1
+ 1792 -207 l 1,1,-1
+ 258 -207 l 1,2,-1
+ 258 223 l 1,3,-1
+ 348 223 l 1,4,5
+ 348 90 348 90 348 15.5 c 128,-1,6
+ 348 -59 348 -59 348 -88 c 128,-1,7
+ 348 -117 348 -117 348 -117 c 1,8,9
+ 364 -117 364 -117 442 -117 c 128,-1,10
+ 520 -117 520 -117 636 -117 c 128,-1,11
+ 752 -117 752 -117 888 -117 c 128,-1,12
+ 1024 -117 1024 -117 1160 -117 c 128,-1,13
+ 1296 -117 1296 -117 1413 -117 c 128,-1,14
+ 1530 -117 1530 -117 1606.5 -117 c 128,-1,15
+ 1683 -117 1683 -117 1702 -117 c 1,16,17
+ 1702 -117 1702 -117 1702 -88 c 128,-1,18
+ 1702 -59 1702 -59 1702 15.5 c 128,-1,19
+ 1702 90 1702 90 1702 223 c 1,20,-1
+ 1792 223 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" uni2423.aalt
+Substitution2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 0 subtable" uni2423.aalt
+EndChar

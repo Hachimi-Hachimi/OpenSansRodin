@@ -1,0 +1,26 @@
+StartChar: Zdotaccent
+Encoding: 379 379 316
+Width: 1279
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 16
+ 5
+ 2
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 668.85 0 basechar 0
+AnchorPoint: "Anchor-0" 656.25 2005.5 basechar 0
+LayerCount: 2
+Fore
+Refer: 61 90 N 1 0 0 1 0 0 3
+Refer: 334 729 N 1 0 0 1 376.95 353.85 2
+Validated: 1
+EndChar

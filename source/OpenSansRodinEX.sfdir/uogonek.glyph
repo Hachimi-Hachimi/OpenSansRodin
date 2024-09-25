@@ -1,0 +1,17 @@
+StartChar: uogonek
+Encoding: 371 371 308
+Width: 1426
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 696.15 -516.6 basechar 0
+AnchorPoint: "Anchor-0" 714 1182.3 basechar 0
+LayerCount: 2
+Fore
+Refer: 88 117 N 1 0 0 1 0 0 3
+Refer: 336 731 N 1 0 0 1 719.25 0 2
+Validated: 5
+Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" uogonek.loclNAV
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 5 subtable" u uni0328
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uogonek.loclNAV
+EndChar

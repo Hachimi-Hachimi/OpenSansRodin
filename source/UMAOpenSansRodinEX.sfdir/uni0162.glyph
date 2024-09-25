@@ -1,0 +1,17 @@
+StartChar: uni0162
+Encoding: 354 354 877
+Width: 1257
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 630 -516.6 basechar 0
+AnchorPoint: "Anchor-0" 630 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 55 84 N 1 0 0 1 0 0 3
+Refer: 122 184 N 1 0 0 1 375.9 0 2
+Validated: 5
+Substitution2: "'locl' Localized Forms in Latin lookup 10 subtable" uni021A
+Substitution2: "'locl' Localized Forms in Latin lookup 9 subtable" uni021A
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni021A
+EndChar

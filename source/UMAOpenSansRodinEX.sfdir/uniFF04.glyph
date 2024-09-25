@@ -1,0 +1,66 @@
+StartChar: uniFF04
+Encoding: 65284 65284 15930
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+991 0 m 0,0,1
+ 909 0 909 0 802.5 21.5 c 128,-1,2
+ 696 43 696 43 594 88 c 128,-1,3
+ 492 133 492 133 418 205 c 1,4,-1
+ 578 451 l 1,5,6
+ 676 365 676 365 783.5 330 c 128,-1,7
+ 891 295 891 295 991 295 c 0,8,9
+ 1130 295 1130 295 1193.5 333 c 128,-1,10
+ 1257 371 1257 371 1257 446 c 0,11,12
+ 1257 493 1257 493 1215.5 525 c 128,-1,13
+ 1174 557 1174 557 1103 581.5 c 128,-1,14
+ 1032 606 1032 606 949 631.5 c 128,-1,15
+ 866 657 866 657 783 692 c 128,-1,16
+ 700 727 700 727 629.5 777 c 128,-1,17
+ 559 827 559 827 517 901 c 128,-1,18
+ 475 975 475 975 475 1081 c 0,19,20
+ 475 1222 475 1222 542.5 1327 c 128,-1,21
+ 610 1432 610 1432 736 1488 c 128,-1,22
+ 862 1544 862 1544 1032 1544 c 0,23,24
+ 1157 1544 1157 1544 1256.5 1516.5 c 128,-1,25
+ 1356 1489 1356 1489 1440 1439 c 128,-1,26
+ 1524 1389 1524 1389 1597 1323 c 1,27,-1
+ 1417 1106 l 1,28,29
+ 1356 1155 1356 1155 1293.5 1187 c 128,-1,30
+ 1231 1219 1231 1219 1169.5 1234 c 128,-1,31
+ 1108 1249 1108 1249 1049 1249 c 0,32,33
+ 949 1249 949 1249 886 1216.5 c 128,-1,34
+ 823 1184 823 1184 823 1106 c 0,35,36
+ 823 1059 823 1059 865 1028 c 128,-1,37
+ 907 997 907 997 978 972.5 c 128,-1,38
+ 1049 948 1049 948 1131.5 923.5 c 128,-1,39
+ 1214 899 1214 899 1297 865 c 128,-1,40
+ 1380 831 1380 831 1451 782 c 128,-1,41
+ 1522 733 1522 733 1564 659.5 c 128,-1,42
+ 1606 586 1606 586 1606 479 c 0,43,44
+ 1606 342 1606 342 1536 233.5 c 128,-1,45
+ 1466 125 1466 125 1330 62.5 c 128,-1,46
+ 1194 0 1194 0 991 0 c 0,0,1
+918 1430 m 1,47,-1
+ 918 1802 l 1,48,-1
+ 1155 1802 l 1,49,-1
+ 1155 1430 l 1,50,-1
+ 918 1430 l 1,47,-1
+918 -258 m 1,51,-1
+ 918 152 l 1,52,-1
+ 1155 152 l 1,53,-1
+ 1155 -258 l 1,54,-1
+ 918 -258 l 1,51,-1
+EndSplineSet
+Validated: 5
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" dollar
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" dollar.hwid
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" dollar.hwid dollar
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 11 per glyph data 4" dx=0 dy=14 dh=0 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 8" dx=4 dy=0 dh=0 dv=0
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 7 per glyph data 9" dx=0 dy=-57 dh=0 dv=98
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-238 dy=0 dh=-492 dv=0
+EndChar

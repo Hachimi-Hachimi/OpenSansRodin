@@ -1,0 +1,13 @@
+StartChar: eight.tosf
+Encoding: 65659 -1 1111
+Width: 1272
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1100 -1 N 1 0 0 1 1.05 0 2
+Validated: 1
+Substitution2: "'pnum' Proportional Numbers lookup 31 subtable" eight.osf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" eight.lf eight.osf
+EndChar

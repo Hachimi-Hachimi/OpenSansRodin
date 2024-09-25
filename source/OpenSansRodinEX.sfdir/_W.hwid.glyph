@@ -1,0 +1,43 @@
+StartChar: W.hwid
+Encoding: 67626 -1 18067
+Width: 1024
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+119 0 m 1,0,-1
+ 0 1532 l 1,1,-1
+ 307 1532 l 1,2,-1
+ 328 733 l 2,3,4
+ 332 639 332 639 332 559 c 128,-1,5
+ 332 479 332 479 332 381 c 1,6,-1
+ 340 381 l 1,7,8
+ 350 479 350 479 357.5 559 c 128,-1,9
+ 365 639 365 639 377 733 c 2,10,-1
+ 424 1143 l 1,11,-1
+ 637 1143 l 1,12,-1
+ 676 733 l 2,13,14
+ 686 641 686 641 695.5 562 c 128,-1,15
+ 705 483 705 483 713 381 c 1,16,-1
+ 721 381 l 1,17,18
+ 721 483 721 483 720 561 c 128,-1,19
+ 719 639 719 639 721 733 c 2,20,-1
+ 745 1532 l 1,21,-1
+ 1024 1532 l 1,22,-1
+ 913 0 l 1,23,-1
+ 578 0 l 1,24,-1
+ 530 459 l 2,25,26
+ 524 537 524 537 520 612.5 c 128,-1,27
+ 516 688 516 688 516 758 c 1,28,-1
+ 508 758 l 1,29,30
+ 508 688 508 688 504 612.5 c 128,-1,31
+ 500 537 500 537 494 459 c 2,32,-1
+ 446 0 l 1,33,-1
+ 119 0 l 1,0,-1
+EndSplineSet
+Validated: 33
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" W
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uniFF37
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" uniFF37 W
+EndChar

@@ -1,0 +1,32 @@
+StartChar: uni30CE
+Encoding: 12494 12494 2001
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1745 1513 m 1,0,1
+ 1712 1450 1712 1450 1687.5 1381.5 c 128,-1,2
+ 1663 1313 1663 1313 1642 1257 c 0,3,4
+ 1597 1136 1597 1136 1537 998 c 128,-1,5
+ 1477 860 1477 860 1405 731 c 128,-1,6
+ 1333 602 1333 602 1251 502 c 0,7,8
+ 1167 398 1167 398 1047.5 283 c 128,-1,9
+ 928 168 928 168 782.5 66.5 c 128,-1,10
+ 637 -35 637 -35 471 -100 c 1,11,-1
+ 188 190 l 1,12,13
+ 352 247 352 247 495.5 329.5 c 128,-1,14
+ 639 412 639 412 759 512 c 128,-1,15
+ 879 612 879 612 969 719 c 0,16,17
+ 1069 838 1069 838 1146 990.5 c 128,-1,18
+ 1223 1143 1223 1143 1276 1304.5 c 128,-1,19
+ 1329 1466 1329 1466 1356 1614 c 1,20,-1
+ 1745 1513 l 1,0,1
+EndSplineSet
+Validated: 1
+Kerns2: 2024 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1990 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1986 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1964 -61 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1962 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1960 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1958 -82 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1956 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1800 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1799 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0"
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni30CE.vert
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 13" dx=33 dy=0 dh=51 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-154 dy=0 dh=-436 dv=0
+EndChar

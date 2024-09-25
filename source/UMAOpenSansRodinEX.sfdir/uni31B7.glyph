@@ -1,0 +1,31 @@
+StartChar: uni31B7
+Encoding: 12727 12727 2226
+Width: 1228
+GlyphClass: 1
+Flags: W
+AnchorPoint: "Anchor-0" 0 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+416 762 m 1,0,-1
+ 1108 762 l 1,1,-1
+ 1108 504 l 1,2,-1
+ 416 504 l 1,3,-1
+ 416 762 l 1,0,-1
+283 762 m 1,4,-1
+ 563 762 l 1,5,-1
+ 563 467 l 2,6,7
+ 563 363 563 363 546.5 242 c 128,-1,8
+ 530 121 530 121 486 8.5 c 128,-1,9
+ 442 -104 442 -104 354 -190 c 1,10,11
+ 334 -163 334 -163 293 -123.5 c 128,-1,12
+ 252 -84 252 -84 209 -47 c 128,-1,13
+ 166 -10 166 -10 137 6 c 1,14,15
+ 205 74 205 74 235.5 153.5 c 128,-1,16
+ 266 233 266 233 274.5 316 c 128,-1,17
+ 283 399 283 399 283 473 c 2,18,-1
+ 283 762 l 1,4,-1
+EndSplineSet
+Validated: 5
+Position2: "NotoSansJP-Black-'vert' Vertical Alternates lookup 2 per glyph data 1" dx=1638 dy=2048 dh=0 dv=-2048
+EndChar

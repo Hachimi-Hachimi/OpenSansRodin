@@ -1,0 +1,24 @@
+StartChar: Jcircumflex.salt
+Encoding: 65586 -1 933
+Width: 1017
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_4
+ 31
+ 12
+ 2
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 921 -1 N 1 0 0 1 0 0 3
+Refer: 330 710 N 1 0 0 1 106.05 353.85 2
+Validated: 1
+EndChar

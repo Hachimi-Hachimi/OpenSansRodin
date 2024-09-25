@@ -1,0 +1,21 @@
+StartChar: quotesingle.hwid.locl
+Encoding: 67669 -1 18111
+Width: 1024
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+414 999 m 1,0,-1
+ 340 1479 l 1,1,-1
+ 328 1802 l 1,2,-1
+ 696 1802 l 1,3,-1
+ 684 1479 l 1,4,-1
+ 610 999 l 1,5,-1
+ 414 999 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" quotesingle.locl
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uniFF07
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" uniFF07 quotesingle.locl
+EndChar

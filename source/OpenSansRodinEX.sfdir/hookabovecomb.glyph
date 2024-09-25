@@ -1,0 +1,15 @@
+StartChar: hookabovecomb
+Encoding: 777 777 884
+Width: 0
+VWidth: 2150
+GlyphClass: 4
+Flags: W
+AnchorPoint: "Anchor-8" -657.3 1791.3 basemark 0
+AnchorPoint: "Anchor-8" -662.55 1182.3 mark 0
+AnchorPoint: "Anchor-5" -662.55 1182.3 mark 0
+AnchorPoint: "Anchor-0" -662.55 1182.3 mark 0
+LayerCount: 2
+Fore
+Refer: 600 -1 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

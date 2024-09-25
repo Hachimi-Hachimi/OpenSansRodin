@@ -1,0 +1,20 @@
+StartChar: uni2E3A
+Encoding: 11834 11834 1758
+Width: 3514
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+102 479 m 1,0,-1
+ 102 709 l 1,1,-1
+ 3412 709 l 1,2,-1
+ 3412 479 l 1,3,-1
+ 102 479 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'locl' Localized Forms lookup 15 subtable" uni2E3A.aalt
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uni2E3A.aalt
+Ligature2: "NotoSansJP-Black-'ccmp' Glyph Composition/Decomposition lookup 2 subtable" emdash emdash
+Substitution2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 0 subtable" uni2E3A.aalt
+EndChar

@@ -1,0 +1,46 @@
+StartChar: uniFF2D
+Encoding: 65325 65325 15970
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+231 0 m 1,0,-1
+ 231 1532 l 1,1,-1
+ 627 1532 l 1,2,-1
+ 918 866 l 2,3,4
+ 943 800 943 800 970 729.5 c 128,-1,5
+ 997 659 997 659 1022 588 c 1,6,-1
+ 1032 588 l 1,7,8
+ 1061 660 1061 660 1087.5 730.5 c 128,-1,9
+ 1114 801 1114 801 1141 866 c 2,10,-1
+ 1417 1532 l 1,11,-1
+ 1815 1532 l 1,12,-1
+ 1815 0 l 1,13,-1
+ 1481 0 l 1,14,-1
+ 1481 522 l 2,15,16
+ 1481 600 1481 600 1488 695.5 c 128,-1,17
+ 1495 791 1495 791 1505.5 887 c 128,-1,18
+ 1516 983 1516 983 1526 1059 c 1,19,-1
+ 1516 1059 l 1,20,-1
+ 1366 686 l 1,21,-1
+ 1120 129 l 1,22,-1
+ 920 129 l 1,23,-1
+ 672 686 l 1,24,-1
+ 524 1059 l 1,25,-1
+ 516 1059 l 1,26,27
+ 526 983 526 983 535.5 887 c 128,-1,28
+ 545 791 545 791 552 695.5 c 128,-1,29
+ 559 600 559 600 559 522 c 2,30,-1
+ 559 0 l 1,31,-1
+ 231 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" M
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" M.hwid
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" M.hwid M
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 11 per glyph data 4" dx=0 dy=23 dh=0 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 0" dx=-291 dy=0 dh=-668 dv=0
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 7 per glyph data 1" dx=0 dy=47 dh=0 dv=-164
+EndChar

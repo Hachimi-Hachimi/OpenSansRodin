@@ -1,0 +1,26 @@
+StartChar: Ncaron
+Encoding: 327 327 264
+Width: 1771
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 20
+ 10
+ 2
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 886.2 0 basechar 0
+AnchorPoint: "Anchor-0" 886.2 2001.3 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 78 N 1 0 0 1 0 0 3
+Refer: 331 711 N 1 0 0 1 338.1 353.85 2
+Validated: 1
+EndChar

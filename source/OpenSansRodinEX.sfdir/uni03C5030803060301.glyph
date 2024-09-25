@@ -1,0 +1,35 @@
+StartChar: uni03C5030803060301
+Encoding: 65558 -1 897
+Width: 1407
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 4
+ 3
+ 2
+ 1
+ 38
+ 5
+ 1
+ 1
+ 100
+ 86
+SVTCA[y-axis]
+CALL
+SHC[rp2]
+SHC[rp2]
+SHC[rp2]
+SHC[rp2]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 704.55 0 basechar 0
+AnchorPoint: "Anchor-0" 698.25 2098.95 basechar 0
+LayerCount: 2
+Fore
+Refer: 401 965 N 1 0 0 1 0 0 3
+Refer: 901 -1 N 1 0 0 1 247.8 0 2
+Validated: 1
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Greek lookup 6 subtable" upsilon uni0308 uni0306 acutecomb
+EndChar

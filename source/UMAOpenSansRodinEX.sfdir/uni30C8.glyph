@@ -1,0 +1,50 @@
+StartChar: uni30C8
+Encoding: 12488 12488 1995
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+616 205 m 0,0,1
+ 616 250 616 250 616 341 c 128,-1,2
+ 616 432 616 432 616 549 c 128,-1,3
+ 616 666 616 666 616 792 c 128,-1,4
+ 616 918 616 918 616 1034.5 c 128,-1,5
+ 616 1151 616 1151 616 1241 c 128,-1,6
+ 616 1331 616 1331 616 1374 c 0,7,8
+ 616 1435 616 1435 610 1509 c 128,-1,9
+ 604 1583 604 1583 592 1640 c 1,10,-1
+ 979 1640 l 1,11,12
+ 973 1583 973 1583 965.5 1515.5 c 128,-1,13
+ 958 1448 958 1448 958 1374 c 0,14,15
+ 958 1331 958 1331 958 1241 c 128,-1,16
+ 958 1151 958 1151 958 1034.5 c 128,-1,17
+ 958 918 958 918 958 793 c 128,-1,18
+ 958 668 958 668 958 550 c 128,-1,19
+ 958 432 958 432 958 341 c 128,-1,20
+ 958 250 958 250 958 205 c 0,21,22
+ 958 178 958 178 961.5 122 c 128,-1,23
+ 965 66 965 66 971 4.5 c 128,-1,24
+ 977 -57 977 -57 981 -104 c 1,25,-1
+ 592 -104 l 1,26,27
+ 602 -38 602 -38 609 52 c 128,-1,28
+ 616 142 616 142 616 205 c 0,0,1
+885 1114 m 1,29,30
+ 987 1087 987 1087 1116 1045.5 c 128,-1,31
+ 1245 1004 1245 1004 1376 956.5 c 128,-1,32
+ 1507 909 1507 909 1621 864 c 128,-1,33
+ 1735 819 1735 819 1804 784 c 1,34,-1
+ 1663 438 l 1,35,36
+ 1577 483 1577 483 1475.5 527 c 128,-1,37
+ 1374 571 1374 571 1270.5 613 c 128,-1,38
+ 1167 655 1167 655 1068 691 c 128,-1,39
+ 969 727 969 727 885 756 c 1,40,-1
+ 885 1114 l 1,29,30
+EndSplineSet
+Validated: 5
+Kerns2: 15938 -61 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1800 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0" 1799 -41 "NotoSansJP-Black-'kern' Horizontal Kerning lookup 5 per glyph data 0"
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni30C8.vert
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 17" dx=84 dy=0 dh=139 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-305 dy=0 dh=-471 dv=0
+EndChar

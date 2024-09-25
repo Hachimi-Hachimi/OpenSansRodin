@@ -1,0 +1,19 @@
+StartChar: quoteright.aalt.vert
+Encoding: 67676 -1 18118
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+467 1753 m 1,0,-1
+ 629 1677 l 1,1,-1
+ 362 1157 l 1,2,-1
+ 113 1286 l 1,3,-1
+ 467 1753 l 1,0,-1
+EndSplineSet
+Validated: 1
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 11 per glyph data 4" dx=0 dy=8 dh=0 dv=0
+Position2: "NotoSansJP-Black-'vhal' Alternate Vertical Half Metrics lookup 8 per glyph data 0" dx=0 dy=0 dh=0 dv=-1024
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 7 per glyph data 0" dx=0 dy=0 dh=0 dv=-1024
+EndChar

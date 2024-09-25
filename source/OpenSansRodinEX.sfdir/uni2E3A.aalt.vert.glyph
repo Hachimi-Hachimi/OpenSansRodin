@@ -1,0 +1,17 @@
+StartChar: uni2E3A.aalt.vert
+Encoding: 67681 -1 18123
+Width: 2048
+VWidth: 4096
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+973 2673 m 1,0,-1
+ 1075 2673 l 1,1,-1
+ 1075 -1116 l 1,2,-1
+ 973 -1116 l 1,3,-1
+ 973 2673 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar

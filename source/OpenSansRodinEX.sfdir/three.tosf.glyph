@@ -1,0 +1,13 @@
+StartChar: three.tosf
+Encoding: 65654 -1 1106
+Width: 1272
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1095 -1 N 1 0 0 1 8.4 0 2
+Validated: 1
+Substitution2: "'pnum' Proportional Numbers lookup 31 subtable" three.osf
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" three.lf three.osf
+EndChar

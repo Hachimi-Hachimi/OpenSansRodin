@@ -1,0 +1,26 @@
+StartChar: uni30FD
+Encoding: 12541 12541 2048
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+784 1272 m 1,0,1
+ 854 1215 854 1215 943 1131 c 128,-1,2
+ 1032 1047 1032 1047 1128.5 948.5 c 128,-1,3
+ 1225 850 1225 850 1319 747.5 c 128,-1,4
+ 1413 645 1413 645 1493 550 c 128,-1,5
+ 1573 455 1573 455 1626 379 c 1,6,-1
+ 1321 137 l 1,7,8
+ 1255 239 1255 239 1158 362 c 128,-1,9
+ 1061 485 1061 485 947.5 611 c 128,-1,10
+ 834 737 834 737 718 851 c 128,-1,11
+ 602 965 602 965 498 1049 c 1,12,-1
+ 784 1272 l 1,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni30FD.vert
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 10 per glyph data 11" dx=12 dy=0 dh=35 dv=0
+Position2: "NotoSansJP-Black-'palt' Proportional Alternate Metrics lookup 6 per glyph data 2" dx=-260 dy=0 dh=-498 dv=0
+EndChar

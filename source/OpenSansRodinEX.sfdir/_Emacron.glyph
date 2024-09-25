@@ -1,0 +1,26 @@
+StartChar: Emacron
+Encoding: 274 274 212
+Width: 1192
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 14
+ 2
+ 2
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 643.65 0 basechar 0
+AnchorPoint: "Anchor-0" 634.2 1891.05 basechar 0
+LayerCount: 2
+Fore
+Refer: 40 69 N 1 0 0 1 0 0 3
+Refer: 332 713 N 1 0 0 1 184.8 353.85 2
+Validated: 1
+EndChar

@@ -1,0 +1,20 @@
+StartChar: f_f_l
+Encoding: 64260 64260 910
+Width: 2396
+VWidth: 2150
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-6" 399 0 baselig 0
+AnchorPoint: "Anchor-5" 585.9 1645.35 baselig 0
+AnchorPoint: "Anchor-6" 1258.95 0 baselig 1
+AnchorPoint: "Anchor-5" 1445.85 1645.35 baselig 1
+AnchorPoint: "Anchor-6" 2059.05 0 baselig 2
+AnchorPoint: "Anchor-5" 2059.05 1645.35 baselig 2
+LayerCount: 2
+Fore
+Refer: 73 102 N 1 0 0 1 0 0 2
+Refer: 73 102 N 1 0 0 1 861 0 2
+Refer: 79 108 N 1 0 0 1 1720.95 0 2
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 34 subtable" f f l
+EndChar

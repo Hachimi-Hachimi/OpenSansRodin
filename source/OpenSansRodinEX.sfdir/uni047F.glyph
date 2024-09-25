@@ -1,0 +1,24 @@
+StartChar: uni047F
+Encoding: 1151 1151 636
+Width: 1916
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_4
+ 52
+ 16
+ 6
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 606 1121 N 1 0 0 1 0 0 3
+Refer: 905 -1 N 1 0 0 1 322.35 0 2
+Validated: 1
+EndChar

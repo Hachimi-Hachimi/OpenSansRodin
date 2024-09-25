@@ -1,0 +1,40 @@
+StartChar: semicolon.hwid
+Encoding: 67598 -1 18039
+Width: 1024
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+512 729 m 0,0,1
+ 418 729 418 729 354.5 792.5 c 128,-1,2
+ 291 856 291 856 291 954 c 0,3,4
+ 291 1050 291 1050 354.5 1115 c 128,-1,5
+ 418 1180 418 1180 512 1180 c 0,6,7
+ 608 1180 608 1180 670.5 1115.5 c 128,-1,8
+ 733 1051 733 1051 733 954 c 0,9,10
+ 733 856 733 856 670.5 792.5 c 128,-1,11
+ 608 729 608 729 512 729 c 0,0,1
+332 -467 m 1,12,-1
+ 254 -270 l 1,13,14
+ 389 -223 389 -223 458.5 -145.5 c 128,-1,15
+ 528 -68 528 -68 526 20 c 2,16,-1
+ 524 258 l 1,17,-1
+ 639 59 l 1,18,19
+ 612 39 612 39 579.5 25.5 c 128,-1,20
+ 547 12 547 12 510 12 c 0,21,22
+ 426 12 426 12 358.5 67.5 c 128,-1,23
+ 291 123 291 123 291 221 c 1,24,-1
+ 291 221 l 1,25,26
+ 291 317 291 317 357.5 371.5 c 128,-1,27
+ 424 426 424 426 516 426 c 0,28,29
+ 637 426 637 426 701.5 336 c 128,-1,30
+ 766 246 766 246 766 86 c 0,31,32
+ 766 -111 766 -111 655.5 -256 c 128,-1,33
+ 545 -401 545 -401 332 -467 c 1,12,-1
+EndSplineSet
+Validated: 37
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" semicolon
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uniFF1B
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" uniFF1B semicolon
+EndChar

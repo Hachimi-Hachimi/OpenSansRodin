@@ -1,0 +1,14 @@
+StartChar: three.numr
+Encoding: 65633 -1 1085
+Width: 836
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 117 179 N 1 0 0 1 0 -279.3 3
+Validated: 1
+Substitution2: "Single Substitution lookup 27 subtable" three.dnom
+Substitution2: "Single Substitution lookup 26 subtable" three.dnom
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" three.dnom
+EndChar

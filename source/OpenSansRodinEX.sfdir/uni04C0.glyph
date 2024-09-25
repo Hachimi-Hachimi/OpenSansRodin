@@ -1,0 +1,13 @@
+StartChar: uni04C0
+Encoding: 1216 1216 694
+Width: 730
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" uni04C0.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni04C0.salt
+EndChar

@@ -1,0 +1,35 @@
+StartChar: uni301C
+Encoding: 12316 12316 1826
+AltUni2: 00ff5e.ffffffff.0 00ff5e.ffffffff.0
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+911 674 m 0,0,1
+ 854 737 854 737 794.5 772 c 128,-1,2
+ 735 807 735 807 633 807 c 0,3,4
+ 545 807 545 807 470 743.5 c 128,-1,5
+ 395 680 395 680 340 578 c 1,6,-1
+ 72 725 l 1,7,8
+ 178 924 178 924 325.5 1019 c 128,-1,9
+ 473 1114 473 1114 639 1114 c 0,10,11
+ 791 1114 791 1114 911.5 1057.5 c 128,-1,12
+ 1032 1001 1032 1001 1137 883 c 0,13,14
+ 1194 820 1194 820 1254.5 785 c 128,-1,15
+ 1315 750 1315 750 1415 750 c 0,16,17
+ 1503 750 1503 750 1578 813.5 c 128,-1,18
+ 1653 877 1653 877 1708 979 c 1,19,-1
+ 1976 831 l 1,20,21
+ 1870 632 1870 632 1722.5 537 c 128,-1,22
+ 1575 442 1575 442 1409 442 c 0,23,24
+ 1259 442 1259 442 1137 498.5 c 128,-1,25
+ 1015 555 1015 555 911 674 c 0,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni301C.vert
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" asciitilde
+Substitution2: "NotoSansJP-Black-'hwid' Half Widths lookup 7 subtable" asciitilde.hwid
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" asciitilde.hwid asciitilde
+EndChar

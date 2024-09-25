@@ -1,0 +1,14 @@
+StartChar: eight.numr
+Encoding: 65638 -1 1090
+Width: 836
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 570 8312 N 1 0 0 1 0 -279.3 3
+Validated: 1
+Substitution2: "Single Substitution lookup 27 subtable" eight.dnom
+Substitution2: "Single Substitution lookup 26 subtable" eight.dnom
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" eight.dnom
+EndChar

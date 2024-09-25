@@ -1,0 +1,13 @@
+StartChar: Zeta
+Encoding: 918 918 355
+Width: 1279
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 668.85 0 basechar 0
+AnchorPoint: "Anchor-0" 656.25 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 61 90 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

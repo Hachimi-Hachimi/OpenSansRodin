@@ -1,0 +1,36 @@
+StartChar: underscoredbl
+Encoding: 8215 8215 516
+Width: 979
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_4
+ 1
+ 2
+ 6
+ 5
+SVTCA[y-axis]
+MDAP[rnd]
+SHP[rp1]
+MDRP[min,rnd,white]
+SHP[rp2]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+983.849609375 -486.150390625 m 1,0,-1
+ -4.2001953125 -486.150390625 l 1,1,-1
+ -4.2001953125 -326.549804688 l 1,2,-1
+ 983.849609375 -326.549804688 l 1,3,-1
+ 983.849609375 -486.150390625 l 1,0,-1
+983.849609375 -205.799804688 m 1,4,-1
+ -4.2001953125 -205.799804688 l 1,5,-1
+ -4.2001953125 -47.25 l 1,6,-1
+ 983.849609375 -47.25 l 1,7,-1
+ 983.849609375 -205.799804688 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar

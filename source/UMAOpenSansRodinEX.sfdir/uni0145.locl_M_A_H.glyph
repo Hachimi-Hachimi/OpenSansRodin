@@ -1,0 +1,25 @@
+StartChar: uni0145.loclMAH
+Encoding: 65568 -1 915
+Width: 1771
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_7
+ 1
+ 37
+ 1
+ 1
+ 0
+ 0
+ 86
+SVTCA[y-axis]
+CALL
+SHC[rp2]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 49 78 N 1 0 0 1 0 0 3
+Refer: 122 184 N 1 0 0 1 647.85 0 2
+Validated: 1
+EndChar

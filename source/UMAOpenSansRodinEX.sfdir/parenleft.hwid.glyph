@@ -1,0 +1,29 @@
+StartChar: parenleft.hwid
+Encoding: 67579 -1 18020
+Width: 1024
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+651 -422 m 1,0,1
+ 522 -295 522 -295 424 -137.5 c 128,-1,2
+ 326 20 326 20 269.5 217 c 128,-1,3
+ 213 414 213 414 213 655 c 0,4,5
+ 213 895 213 895 269.5 1091.5 c 128,-1,6
+ 326 1288 326 1288 424 1446 c 128,-1,7
+ 522 1604 522 1604 651 1729 c 1,8,-1
+ 860 1569 l 1,9,10
+ 743 1430 743 1430 668.5 1298.5 c 128,-1,11
+ 594 1167 594 1167 559 1013.5 c 128,-1,12
+ 524 860 524 860 524 655 c 0,13,14
+ 524 448 524 448 559 294.5 c 128,-1,15
+ 594 141 594 141 668.5 10 c 128,-1,16
+ 743 -121 743 -121 860 -262 c 1,17,-1
+ 651 -422 l 1,0,1
+EndSplineSet
+Validated: 1
+Substitution2: "NotoSansJP-Black-'pwid' Proportional Width lookup 8 subtable" parenleft
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uniFF08
+AlternateSubs2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 1 subtable" uniFF08 parenleft
+EndChar

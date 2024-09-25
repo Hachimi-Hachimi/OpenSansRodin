@@ -1,0 +1,30 @@
+StartChar: uni02BB
+Encoding: 699 699 1167
+Width: 718
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+358 766 m 0,0,1
+ 245 766 245 766 186 850 c 128,-1,2
+ 127 934 127 934 127 1085 c 0,3,4
+ 127 1255 127 1255 213 1383 c 128,-1,5
+ 299 1511 299 1511 473 1597 c 1,6,-1
+ 551 1438 l 1,7,8
+ 442 1387 442 1387 389 1315 c 128,-1,9
+ 336 1243 336 1243 336 1139 c 2,10,-1
+ 342 930 l 1,11,-1
+ 225 1092 l 1,12,13
+ 254 1115 254 1115 288 1130 c 128,-1,14
+ 322 1145 322 1145 358 1145 c 0,15,16
+ 436 1145 436 1145 490.5 1097 c 128,-1,17
+ 545 1049 545 1049 545 965 c 0,18,19
+ 545 875 545 875 492.5 820.5 c 128,-1,20
+ 440 766 440 766 358 766 c 0,0,1
+EndSplineSet
+Validated: 5
+Substitution2: "NotoSansJP-Black-'locl' Localized Forms lookup 15 subtable" uni02BB.aalt.aalt
+Substitution2: "NotoSansJP-Black-'fwid' Full Widths lookup 6 subtable" uni02BB.aalt
+Substitution2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 0 subtable" uni02BB.aalt
+EndChar

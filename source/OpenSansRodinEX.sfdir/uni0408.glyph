@@ -1,0 +1,15 @@
+StartChar: uni0408
+Encoding: 1032 1032 418
+Width: 735
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 38.8496 -466.2 basechar 0
+AnchorPoint: "Anchor-0" 367.5 1535.1 basechar 0
+LayerCount: 2
+Fore
+Refer: 45 74 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" uni0408.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0408.salt
+EndChar

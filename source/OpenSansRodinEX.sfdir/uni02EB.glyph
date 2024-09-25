@@ -1,0 +1,26 @@
+StartChar: uni02EB
+Encoding: 747 747 1163
+Width: 1228
+GlyphClass: 1
+Flags: W
+AnchorPoint: "Anchor-2" 0 0 mark 0
+AnchorPoint: "Anchor-1" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+465 1393 m 1,0,-1
+ 1020 1393 l 1,1,-1
+ 1020 1090 l 1,2,-1
+ 465 1090 l 1,3,-1
+ 465 1393 l 1,0,-1
+270 1729 m 1,4,-1
+ 582 1729 l 1,5,-1
+ 582 678 l 1,6,-1
+ 270 678 l 1,7,-1
+ 270 1729 l 1,4,-1
+EndSplineSet
+Validated: 5
+Substitution2: "NotoSansJP-Black-'vrt2' Vertical Rotation & Alternates lookup 16 subtable" uni02EB
+Substitution2: "NotoSansJP-Black-'ruby' Ruby Notational Forms lookup 9 subtable" uni02EB
+Substitution2: "NotoSansJP-Black-'aalt' Access All Alternates lookup 0 subtable" uni02EB
+EndChar

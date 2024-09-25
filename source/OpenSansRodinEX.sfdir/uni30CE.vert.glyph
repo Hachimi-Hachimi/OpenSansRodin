@@ -1,0 +1,30 @@
+StartChar: uni30CE.vert
+Encoding: 67828 -1 18270
+Width: 2048
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1722 1491 m 1,0,1
+ 1691 1430 1691 1430 1666.5 1363 c 128,-1,2
+ 1642 1296 1642 1296 1622 1243 c 0,3,4
+ 1579 1124 1579 1124 1520.5 991 c 128,-1,5
+ 1462 858 1462 858 1392.5 732 c 128,-1,6
+ 1323 606 1323 606 1243 510 c 0,7,8
+ 1161 410 1161 410 1044.5 298 c 128,-1,9
+ 928 186 928 186 786.5 87 c 128,-1,10
+ 645 -12 645 -12 485 -76 c 1,11,-1
+ 211 207 l 1,12,13
+ 371 262 371 262 510 342 c 128,-1,14
+ 649 422 649 422 765 519 c 128,-1,15
+ 881 616 881 616 969 721 c 0,16,17
+ 1067 836 1067 836 1140.5 983 c 128,-1,18
+ 1214 1130 1214 1130 1265.5 1288 c 128,-1,19
+ 1317 1446 1317 1446 1343 1589 c 1,20,-1
+ 1722 1491 l 1,0,1
+EndSplineSet
+Validated: 1
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 11 per glyph data 11" dx=0 dy=-4 dh=0 dv=45
+Position2: "NotoSansJP-Black-'vpal' Proportional Alternate Vertical Metrics lookup 7 per glyph data 1" dx=0 dy=102 dh=0 dv=-266
+EndChar

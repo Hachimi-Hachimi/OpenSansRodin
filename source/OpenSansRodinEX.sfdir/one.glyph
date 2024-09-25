@@ -1,0 +1,56 @@
+StartChar: one
+Encoding: 49 49 20
+Width: 1245
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 11
+ 10
+ 10
+ 6
+ 12
+ 4
+ 114
+ 0
+ 12
+ 114
+SVTCA[y-axis]
+CALL
+CALL
+SHP[rp2]
+SHP[rp2]
+MDAP[rnd]
+SHP[rp1]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+938.700195312 0 m 1,0,-1
+ 565.950195312 0 l 1,1,-1
+ 565.950195312 824.25 l 2,2,3
+ 565.950195312 852.599609375 565.950195312 852.599609375 566.474609375 907.724609375 c 128,-1,4
+ 567 962.849609375 567 962.849609375 569.099609375 1025.84960938 c 128,-1,5
+ 571.200195312 1088.84960938 571.200195312 1088.84960938 573.299804688 1139.25 c 1,6,7
+ 554.400390625 1116.15039062 554.400390625 1116.15039062 525 1087.79980469 c 128,-1,8
+ 495.599609375 1059.45019531 495.599609375 1059.45019531 469.349609375 1036.34960938 c 2,9,-1
+ 294 893.549804688 l 1,10,-1
+ 108.150390625 1123.5 l 1,11,-1
+ 618.450195312 1535.09960938 l 1,12,-1
+ 938.700195312 1535.09960938 l 1,13,-1
+ 938.700195312 0 l 1,0,-1
+EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures lookup 33 subtable" one.tosf
+Substitution2: "'pnum' Proportional Numbers lookup 31 subtable" one.lf
+Substitution2: "'frac' Diagonal Fractions lookup 24 subtable" one.numr
+Substitution2: "'dnom' Denominators lookup 22 subtable" one.dnom
+Substitution2: "'numr' Numerators lookup 21 subtable" one.numr
+Substitution2: "'sups' Superscript lookup 20 subtable" uni00B9
+Substitution2: "'subs' Subscript lookup 19 subtable" uni2081
+AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" uni00B9 one.dnom one.lf one.numr one.tosf uni2081
+EndChar

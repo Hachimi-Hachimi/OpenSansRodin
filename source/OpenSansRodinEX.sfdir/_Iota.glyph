@@ -1,0 +1,13 @@
+StartChar: Iota
+Encoding: 921 921 358
+Width: 730
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 44 73 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "'ss03' Style Set 3 lookup 37 subtable" Iota.salt
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Iota.salt
+EndChar

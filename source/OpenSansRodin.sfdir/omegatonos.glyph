@@ -1,0 +1,26 @@
+StartChar: omegatonos
+Encoding: 974 974 410
+Width: 1911
+VWidth: 2150
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_4
+ 49
+ 23
+ 6
+ 114
+SVTCA[y-axis]
+CALL
+MDRP[min,rnd,white]
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 956.55 0 basechar 0
+AnchorPoint: "Anchor-0" 963.9 1710.45 basechar 0
+LayerCount: 2
+Fore
+Refer: 405 969 N 1 0 0 1 0 0 3
+Refer: 339 900 N 1 0 0 1 367.5 0 2
+Validated: 1
+EndChar

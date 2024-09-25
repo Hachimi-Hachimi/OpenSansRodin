@@ -1,0 +1,13 @@
+StartChar: uniFB43
+Encoding: 64323 64323 1017
+Width: 1374
+VWidth: 2150
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 988 1507 N 1 0 0 1 0 0 3
+Refer: 1057 1468 N 1 0 0 1 630 233.1 2
+Validated: 1
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Hebrew lookup 7 subtable" uni05E3 uni05BC
+EndChar
